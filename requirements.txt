@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+pydantic
+python-dotenv
+tqdm
+requests
+plotext
+matplotlib
+seaborn
