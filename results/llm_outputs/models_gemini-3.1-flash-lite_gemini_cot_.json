@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 6174684,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "There is a special place in hell for people that lie to the families of our fallen heroes.  Trump jong orange also said he was going to contribute $1M (picture Dr. Evil biting his pinky) to huricane relief in Texas.  The money never got there.  There were two more huricanes after that one and no more pledges.  This guy is a buffoon.",
+    "result": {
+      "reasoning": "The comment uses aggressive and insulting language ('buffoon', 'Trump jong orange') and expresses strong hostility toward a political figure. While it contains political criticism, the tone is inflammatory and disrespectful, which aligns with the definition of a toxic comment.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 6006439,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "How much longer can our country allow a batsh*t crazy man make decisions that destroy what has made our country great. The policies, and repeal of policies, that stream out of the White House seem to be the exact opposite of what needs to be done. It's a dangerous situation, and the sooner Trump can be evicted from the White House, the sooner we can get our country back on track.\nIt's not just this proposal, but almost every proposal that comes out of the Trump administration leaves the vast majority of our country scratching their heads. WTF? How can anyone believe that Trump is doing anything good for our country?",
+    "result": {
+      "reasoning": "The comment expresses strong political disagreement and uses aggressive, informal language such as 'batsh*t crazy' and 'WTF'. While the tone is highly critical and confrontational toward a political figure, it focuses on policy and leadership rather than attacking individuals based on protected characteristics. It falls into the category of heated political discourse, which is often perceived as toxic due to the inflammatory language, but it does not constitute hate speech or harassment.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 6051282,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Leaving people alone? What?? That's like saying mind your own business. Keep your own house clean. Come on, Gary: How can people get aroused if not by vicariously peeping in my bedroom window? Better yet, into a gay man's bedroom? Never mind the suit and tie they wear to work at the bank, or that I prefer funny movies. Don't deny that the images of >>gay sex<< flood your thoughts at the mention of the word \"gay\". Dwell, dwell, dwell.\nIt's important to keep what you think I do out of the campsite.",
+    "result": {
+      "reasoning": "The comment uses a sarcastic and confrontational tone to challenge the recipient's perceived prejudices. While it employs provocative language and addresses sensitive topics like sexual orientation and privacy, it functions primarily as a rhetorical critique of the other person's fixation on the speaker's private life. It is aggressive and rude, but it does not cross into hate speech or severe harassment, making it 'Toxic' rather than 'Very Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 850367,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Done and done.  We were told when CC was first implemented that they were developing blocking.  I don't see any reason to NOT have it since all it does is allow one to control one's own reading experience...which is far more difficult to do without the feature.  Thanks, AAJ -- you're always helpful in such practical ways!",
+    "result": {
+      "reasoning": "The comment is polite, constructive, and expresses a clear opinion on a platform feature. It uses a respectful tone and includes a positive acknowledgment of another user. There is no aggression, hate speech, or disrespectful language present.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 1008845,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Allan Ross: Because we have hate crime and human rights laws, what other forms of (suspected?) intolerance, (assumed?) hatred and (irrational, by definition) phobia does M-103 intend that Parliament address, and more importantly what kind of legal responses might the motion envisage? Censorship is surely one approach but it would become a legal circus because any new prohibitions would clearly clash with the Charter right to freedom of expression. So what does M-103 intend to achieve other than to serve as a pre-emptive vilification of all points of view that are in any way critical, even if rationally so, of Islamic ideology and/or opinions and analyses that challenge overly broad interpretations of racism? Is moralistic pigeonholing the appropriate role of Parliament in a free and democratic society? Personally, I think not.",
+    "result": {
+      "reasoning": "The comment is a critical, argumentative piece regarding a specific parliamentary motion (M-103). While it expresses strong disagreement and uses loaded language like 'moralistic pigeonholing' and 'pre-emptive vilification,' it remains focused on policy, legal implications, and the role of government. It does not resort to ad hominem attacks, slurs, or harassment, and it maintains a formal, albeit skeptical, tone. It is a contribution to a political debate rather than an attempt to silence or abuse individuals.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 626457,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Madison knew that the North would outnumber the South, despite there being more than half a million slaves in the South who were their economic vitality, but could not vote. His proposition for the Electoral College included the \u201cthree-fifths compromise,\u201d where black people could be counted as three-fifths of a person, instead of a whole. This clause garnered the state 12 out of 91 electoral votes, more than a quarter of what a president needed to win.\n\n\u201cNone of this is about slaves voting,\u201d said Finkelman, who wrote a paper on the origins of the Electoral College for a symposium after Gore lost. \u201cThe debates are in part about political power and also the fundamental immorality of counting slaves for the purpose of giving political power to the master class.\u201d\n\nHe said the Electoral College\u2019s three-fifths clause enabled Thomas Jefferson, who owned more than a hundred slaves, to beat out in 1800 John Adams, who was opposed to slavery, since the South had a stronghold. PBS2",
+    "result": {
+      "reasoning": "The comment provides a historical analysis of the Electoral College and the three-fifths compromise. It uses neutral, academic language to discuss sensitive historical topics such as slavery and political power. There is no aggressive, hateful, or disrespectful language directed at individuals or groups; rather, it cites historical context and expert opinion to explain a political mechanism. Therefore, it is not toxic.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5852495,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Why so Eurocentric?   Maybe because we are the ones that got rid of slavery?   Think about it.   Slavery STILL happens in Africa.   Maybe because we came up with things like the Declaration.   Maybe because we were more technologically advanced than anybody else at the time.   Did you not understand any thing that Goldberg wrote.   The idiots that protesting Columbus are a product of their environment.   I wonder how many of these people would truly survive in the environment that they are protesting for?  Also, have you studied what some of  those indians were doing to each other?   Do you think we should be practicing human sacrifice?",
+    "result": {
+      "reasoning": "The comment uses a confrontational and dismissive tone, employing ad hominem attacks by labeling protesters as 'idiots'. It relies on generalizations and provocative historical comparisons to invalidate opposing viewpoints. While it expresses strong political opinions, the use of insulting language and aggressive rhetoric pushes it into the toxic category.",
+      "toxicity_score": 0.78,
+      "error": false
+    }
+  },
+  {
+    "id": 870944,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "People don't start smoking at 18, 19 or 21.  Not sure how this stops them at all. Just will add to Black Market of tobacco.  Data from jurisdictions that have done this is premature and may just be related to the general trend of less smoking every where.  Smoking is going away on it's own, these types of laws don't stop people from smoking.",
+    "result": {
+      "reasoning": "The comment expresses a critical opinion on public policy regarding tobacco age restrictions. The tone is argumentative and skeptical, but it remains focused on the policy's effectiveness rather than attacking individuals or groups. It does not contain hate speech, insults, or aggressive language, making it a standard contribution to a policy debate.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 889651,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Since you have provided zero citations and zero facts, your standing to offer commentary appears to be zero.",
+    "result": {
+      "reasoning": "The comment is critical and dismissive of the interlocutor's argument, focusing on the lack of evidence provided. While it is confrontational and rude, it targets the quality of the argument rather than attacking the person's identity or using slurs. It falls into the category of a heated debate rather than harassment.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 490418,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "All Republicans have for black people are bullets. They have given Democrats a pretty low bar to get over to look less racist than Republicans.",
+    "result": {
+      "reasoning": "The comment uses inflammatory language and broad generalizations to characterize an entire political group as violent and racist. While it expresses a strong political opinion, the use of 'bullets' implies a threat or extreme malice, which is disrespectful and aggressive, fitting the criteria for 'Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5993726,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Does she have any idea what her husband, a malignant narcissist and mentally defective sociopath, does on a continuing basis? The entire family is a joke and no one's laughing.",
+    "result": {
+      "reasoning": "The comment uses highly inflammatory, pathologizing language ('malignant narcissist', 'mentally defective sociopath') to attack individuals. It expresses deep hostility and contempt toward the subjects, which is intended to demean and insult rather than engage in constructive discourse. This falls under the category of toxic behavior due to its aggressive and disrespectful nature.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5225769,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The program has been extremely popular among rich Chinese, who call it the \u201cgolden visa\u201d and are eager to get their families \u2014 and their wealth \u2014 out of the country. The fact that some use it to move their money out illegally, however, has made the program unpopular with the Chinese authorities.\n.\nThe program was launched with the goal of securing investment and creating jobs. But instead, in recent years, many real estate developers have used the program as a source of cheap financing by using foreign investors, especially from China, for flashy projects in Manhattan and other city centers.\n.\nA Government Accountability Office report in 2015 found the EB-5 program carried a high risk of fraud, was rife with counterfeit documentation and had \u201cno reliable method to verify the source of the funds of petitioners.\u201d",
+    "result": {
+      "reasoning": "The provided text is a factual, journalistic summary of a government report and public sentiment regarding the EB-5 visa program. It uses neutral, descriptive language to report on allegations of fraud and the motivations of investors. There is no aggressive, hateful, or disrespectful language directed at any individual or group, and the intent is clearly informative rather than inflammatory.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 6229383,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I saw + on the floating pig! \nWill tranph interpret that as Roger Waters being against the Red Cross?",
+    "result": {
+      "reasoning": "The comment references a specific visual element from a Roger Waters concert (a floating pig) and poses a speculative question about how a specific group might interpret it. The tone is inquisitive and observational rather than aggressive, hateful, or disrespectful. It does not contain slurs, personal attacks, or inflammatory language, making it unlikely to cause someone to leave a discussion.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5940823,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "No, just a remote island with no means of evacuation or safe shelter while a deadly storm barreled down on them threatening to kill everyone.\n\nDid you attend the women's conference dear?  Justin was well prepared it.",
+    "result": {
+      "reasoning": "The comment contains two distinct parts. The first part describes a dangerous situation in a neutral, descriptive tone. The second part uses the term 'dear,' which can be perceived as patronizing or condescending in a debate context, but it does not reach the threshold of being hateful, aggressive, or inherently toxic. The overall tone is argumentative but remains within the bounds of civil discourse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 823019,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "This is the practice of stalinism which is the foundation of the communist Party of China, not an ancient barbaric cultural practice. Those who deviate from  likemindedness are shamed, humiliated, denied a living, reduced to poverty, treated like criminals, imprisoned, and are eventually killed off.  The same treatment is extended to their bloodline.  The hallmark of totalitarianism.  A shame on the greatness of the 6000 year old civilization.\n\nIt is appalling that Canada is covertly supporting this crime against humanity in developing their extradition treaty with the CCP.\n\nStop harassing citizens for not being communists, now!\n\n Free Nobel Peace Prize winner Liu Xiaobo, now!",
+    "result": {
+      "reasoning": "The comment expresses strong political criticism and condemnation of the Chinese Communist Party's policies and human rights record. While the language is intense and uses strong descriptors like 'appalling' and 'crime against humanity,' it focuses on criticizing a government and its political practices rather than attacking individuals or protected groups with hate speech. The tone is argumentative and passionate but remains within the bounds of political discourse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5525946,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "did he really shoot anyone?\n\nany chance you could come to the comments section a little better informed?",
+    "result": {
+      "reasoning": "The comment uses a condescending and patronizing tone to belittle the other user's knowledge. While it does not use profanity or hate speech, the intent is to dismiss and insult the interlocutor rather than engage in constructive dialogue, which qualifies as toxic behavior.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5804112,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You do realize if the scum in the alt-right got their way, they would genocide millions, possibly billions?\n\n\nWhy so much hate for liberals? Those are not the people talking about shoving the \"wrong\" type of people into ovens. \n\n\nOr are you on the side of the Nazis?",
+    "result": {
+      "reasoning": "The comment uses inflammatory and aggressive language, including terms like 'scum' and references to genocide and Nazis. While it is framed as a critique of political extremism, the accusatory tone and the direct questioning of the recipient's morality ('are you on the side of the Nazis?') are highly confrontational and likely to derail a constructive discussion.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5261337,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Crime and the prevention of crime are huge money-spinners for everyone except the victims. Follow the money. It's always about the money.",
+    "result": {
+      "reasoning": "The comment expresses a cynical viewpoint regarding the criminal justice system and economic incentives. While it is critical and skeptical of institutions, it does not use hate speech, personal attacks, or aggressive language. It is a form of social commentary that remains within the bounds of civil discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5608106,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I'm honestly unrepentant on this: Sex, attempted sex, sexual assault against your child and you die. No mercy, nothing less. Death. Male or Female abusers put to death. That is it.\n\nWe seriously need the death penalty back. Without it, we've become idiots.",
+    "result": {
+      "reasoning": "The comment expresses a strong, aggressive opinion advocating for capital punishment for specific violent crimes. While the tone is harsh and uses inflammatory language like 'idiots' to describe those who disagree, it focuses on a policy stance regarding criminal justice rather than attacking a specific individual or protected group. It is highly opinionated and intense, but falls into the category of heated political/social debate.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 5341545,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Trump is a mentally ill, narcissistic, delusional, sick, perverted, nasty, decrepid 70 year-old man who was so desperate to become relevant, he ran for the presidency, supported by obscure losers even more desperate for relevancy.  \n\nTogether they have taken being incredibly stupid to new heights. \n\nNot what they were going for but because they're stupid, they don't get it.  They prefer ignorance; it's bliss doncha know. \n\nHopefully, this will be their last hurrah before they die out.",
+    "result": {
+      "reasoning": "The comment uses highly aggressive, insulting, and dehumanizing language directed at a political figure and his supporters. It employs multiple ad hominem attacks, labels groups as 'losers' and 'stupid,' and expresses a desire for a group of people to 'die out.' This level of hostility is intended to demean and provoke, fitting the criteria for a 'Very Toxic' classification.",
+      "toxicity_score": 0.92,
+      "error": false
+    }
+  },
+  {
+    "id": 420447,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "They can't if they earn it in Alaska.",
+    "result": {
+      "reasoning": "The comment is a neutral, factual statement regarding legal or financial regulations in Alaska. It lacks any aggressive, hateful, or disrespectful language and does not target individuals or groups in a harmful way.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 355002,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Clayton I and many Alaskans don't give a damn what they do in other States.  Please become one of US,or move out.",
+    "result": {
+      "reasoning": "The comment uses aggressive language ('don't give a damn') and adopts a exclusionary, nationalistic tone by telling someone to 'become one of US, or move out.' While it is confrontational and rude, it does not contain slurs or threats of violence, placing it in the 'Toxic' category rather than 'Very Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5764654,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "They are part of his base and self-identified as such - just read Duke's comments.  Obviously, they are not the sum of his base and it is disingenuous on your part to try to say that was my position. You set up a straw horse argument here. \n\nThe real question you try to muddy here is why did Trump not come down hard on one of the most visible and horrifying manifestations of white suprematism in decades?",
+    "result": {
+      "reasoning": "The comment is a critique of a political argument. While it uses strong language like 'disingenuous' and 'muddy,' it remains focused on the debate and the actions of a public figure rather than attacking the individual with slurs or harassment. It is a standard, albeit heated, political disagreement.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5026863,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Roy Anthony, Scary Alaskan liberal, I am a good American! I feel it is in our nation's interest for all oil states like Alaska to produce more oil so Americans like me and you don't have to buy it from the people in the Middle East and make them rich because it has been reported that many fanatical muslims use this money to kill Americans because they hate us!\nDo you believe this? Many Americans do. I am a good American, are you a good American? If so can we agree to help increase oil and gas production and have more jobs and more money. This is good for all Alaskans and other Americans, right?",
+    "result": {
+      "reasoning": "The comment uses provocative language and generalizations about religious groups, which borders on xenophobic rhetoric. While it frames its argument as a patriotic appeal for energy independence, the underlying tone is confrontational and relies on fear-mongering. It is not overtly abusive or profane, but the divisive nature of the content makes it likely to be perceived as toxic by a significant portion of the audience.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 1056522,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Mr. Trump continues his public descent into madness.  He's a psychotic.  Obviously.\n\nNow it's Mr. Obama who is his enemy, along with the press and the United States intelligence apparatus.  Sooner or later, the only people left on his side will be the Ku Klux Klan and Steve Bannon.\n\nThis will not end well for the United States",
+    "result": {
+      "reasoning": "The comment uses inflammatory language, specifically labeling a political figure as 'psychotic' and associating him with hate groups like the KKK. While it expresses a strong political opinion, the use of ad hominem attacks and hyperbolic characterizations makes it disrespectful and aggressive, fitting the criteria for 'Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5258250,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Africans don't seem to do SHAME too well, do they? Everywhere you look in Africa, nepotism thrives.\n\nPeoples who don't respect themselves are not honorable.",
+    "result": {
+      "reasoning": "The comment makes a sweeping, negative generalization about an entire continent and its people, characterizing them as lacking shame and honor. This constitutes hate speech by promoting harmful stereotypes and disparaging a group based on their origin. The tone is condescending and aggressive, clearly intended to demean.",
+      "toxicity_score": 0.92,
+      "error": false
+    }
+  },
+  {
+    "id": 582180,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Slap the bitch in jail! And also the derelict who gave her the licenses to adopt children!",
+    "result": {
+      "reasoning": "The comment uses aggressive, dehumanizing language ('bitch', 'derelict') and advocates for physical violence ('slap'). The tone is highly hostile and inflammatory, which clearly falls under the category of Very Toxic.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 322182,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Oh, you're a riot. That question is a,very stupid question. Japan was not going to surrender. The bomb stopped the war and saved lives.",
+    "result": {
+      "reasoning": "The comment uses a condescending tone and explicitly labels the other person's question as 'very stupid'. While it expresses a strong opinion on a historical debate, the personal attack on the interlocutor's intelligence makes it disrespectful and rude, fitting the criteria for 'Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 582382,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Edward invited me to Barrow and I ended up staying there  for 12 years. He was an extraordinary man in so many ways and always pleasant to be around. He guided me and others through some difficult times with his wisdom and desire to see us all succeed. That was Edward. Quyanaq my great friend. Tinukpala",
+    "result": {
+      "reasoning": "The comment is a heartfelt, respectful, and appreciative tribute to a deceased or departed friend named Edward. It expresses gratitude and admiration, containing no aggressive, hateful, or disrespectful language. It is entirely positive in tone and intent.",
+      "toxicity_score": 0.0,
+      "error": false
+    }
+  },
+  {
+    "id": 512409,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Sounds like APD exercised amazing constraint, in order to save this man's life and to protect surrounding neighbors. Had we been in Cleveland, this man would be dead long ago. Or maybe perhaps it's because he was white? Food for thought people...",
+    "result": {
+      "reasoning": "The comment discusses police conduct and compares different jurisdictions, which is a common topic of public debate. While it introduces a racial element by questioning if the suspect's race influenced the outcome, it does so in a speculative, argumentative manner rather than using slurs or direct hate speech. The tone is provocative and potentially inflammatory, but it remains within the bounds of political discourse rather than being overtly abusive or harassing.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 5754942,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "BURN THIS DOG RAPING WHITE NIGER ALIVE\nTIME for THESE NIGER LOVERS to DIE for THEIR CAUSE\nKILL THEM ALL REAL SLOW",
+    "result": {
+      "reasoning": "The comment contains extreme hate speech, racial slurs, and explicit calls for violence and torture. It is highly aggressive and clearly intended to incite harm and dehumanize individuals based on race and personal beliefs. This is a clear example of very toxic content.",
+      "toxicity_score": 1.0,
+      "error": false
+    }
+  },
+  {
+    "id": 884239,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "It would be interesting to know how many of the useful idiots donning \u201cpussy hats\u201d at Saturday's massive \u201cWomen's March on Washington\u201d had any idea\u2014or even cared to know\u2014who the principal organizers of the event were. The answer is undoubtedly close to zero. Linda Sarsour was one of the principal organizers, Sarsour was a featured speaker at the annual convention of the Islamic Society of North America, a Muslim Brotherhood front group that promotes Sharia Law and Islamic supremacism. The Brotherhood, it should be noted, is the parent group of both Hamas and Al-Qaeda.\nYou bet it's far from over.",
+    "result": {
+      "reasoning": "The comment uses inflammatory and derogatory language such as 'useful idiots' to describe participants of a protest. It employs guilt-by-association tactics to link the event organizers to extremist groups, which is a common rhetorical strategy in polarized political discourse. While the tone is aggressive, condescending, and intended to discredit a specific group, it stops short of direct threats or hate speech targeting protected groups, though it borders on harassment. It is likely to be perceived as toxic by many due to its hostile framing.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5830157,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Excellent work Amabhungane! You see....the south africans are not stupid. Every move these thieves make is watched and worked out. Pity our Police/Justice cant keep up.",
+    "result": {
+      "reasoning": "The comment expresses strong frustration with corruption and government institutions, using the term 'thieves' to describe public officials. While the tone is aggressive and critical, it is directed at systemic issues and political actors rather than attacking individuals based on protected characteristics or inciting violence. It is a common form of political discourse in South Africa.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 295955,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "double locked? with does that mean? these nasty dogs gotta go.",
+    "result": {
+      "reasoning": "The comment expresses a strong negative sentiment towards dogs, using the pejorative term 'nasty' and advocating for their removal. While it is rude and aggressive, it does not contain slurs or direct threats against individuals, placing it in the 'Toxic' category rather than 'Very Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 691592,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Obviously the data in this article is fudged. Vancouver is #8 on the list, behind Newfoundland?...it is to laugh.\nThe average price for a detached house in Greater Vancouver went up 500% between 2002 and 2015...but who's counting? The average price for a house was almost $2 Million in 2015.",
+    "result": {
+      "reasoning": "The comment expresses strong disagreement and skepticism regarding the accuracy of an article's data. While the tone is sarcastic and dismissive, it focuses on challenging the validity of the information provided rather than attacking individuals or using hate speech. It does not meet the threshold for toxicity as it remains within the bounds of critical discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 6216874,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "All form of hate need to be eliminated racism, homophobia, Islamophobia, Anti-Semitism, discrimination against Transgenders. We must get behind Justin, Obama, Hillary and Premier Wynne and fight Trump and this racist Quebec law!",
+    "result": {
+      "reasoning": "The comment expresses strong political opinions and advocates for the elimination of various forms of discrimination. While it uses polarizing language and targets specific political figures and policies, it does not contain hate speech, slurs, or personal attacks that would qualify as toxic under standard moderation guidelines. It is a passionate expression of political advocacy.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 648938,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Last Christmas, after spending time with family and friends, I spent the rest of my afternoon and evening at Bean\u2019s Caf\u00e9 playing Christmas music for the patrons there. I had to look real hard to see Native people. There were at least 100 folks give or take, mostly white, some Black, some Samoans, some Asians, all from this town that seems to hate them all with a passion.\n\nThere\u2019s a lot of anger here on these poor pages. People vent about the less fortunate. Lots of angst. Angry words. Smart-alecky and high and mighty. No thoughts of giving of one\u2019s self. \n\nIt\u2019s sad to witness the poor having no place to call home except Brother Francis and Bean\u2019s. Families with kids. The old and elderly. All races. All colors. \nThat\u2019s how it is.",
+    "result": {
+      "reasoning": "The comment expresses a critical and somber perspective on social issues, homelessness, and the behavior of others in the community. While it uses strong language to criticize the 'high and mighty' attitude of others and notes the presence of anger in the community, it does not target individuals with harassment, hate speech, or aggressive insults. The tone is reflective and observational rather than toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 318502,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "can't go by \"how many\" prisoners that aren't Caucasian are in prison, as an indicator to how much crime any one ethnic group does.  minorities are convicted more often than whites.  it's a well known situation.  ie:  look at how many people we have read about here that get seemingly light sentences - they are white.  and here , minorities would more likely get a fair-er trial than in most other parts of the country.  blacks and Hispanics make up a huge part of the prison population....many unfairly.",
+    "result": {
+      "reasoning": "The comment discusses sensitive topics regarding racial disparities in the criminal justice system. While it touches on controversial subjects, the tone is analytical and argumentative rather than hateful, aggressive, or disrespectful. It presents a perspective on systemic bias without resorting to slurs, personal attacks, or dehumanizing language. Therefore, it is classified as not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 274237,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Now lets go picket the Conquistador!",
+    "result": {
+      "reasoning": "The comment expresses a desire to protest or picket a specific entity. While it uses an imperative tone, it does not contain hate speech, threats of violence, or personal attacks. It falls under the category of political or social expression and is not inherently toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5377467,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You know your administration has lost the plot entirely when straight news stories begin to mock you for your garbage-laden announcements.",
+    "result": {
+      "reasoning": "The comment uses strong, critical language ('lost the plot', 'garbage-laden') to express political disapproval. While it is aggressive and disrespectful toward an administration, it targets public figures and policy communication rather than attacking individuals based on protected characteristics or inciting violence. It falls into the category of harsh political criticism, which is generally considered 'Toxic' but not 'Very Toxic'.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 449717,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Women are far from defenseless! I did say it's ungentlemanly and stupid for a man to strike a woman.  Is that what you mean by \"putting women on a pedestal?  In fact I don't hit men either.  So that's a little equality.\n\nStalking is by definition, obsessive behavior.  If the woman hurt the dude, he certainly could have walked away and forgot about her, provided he was reasonably smart, emotionally healthy, and well brought up.\n\nDetermining why they were in conflict?  That's for a marriage counselor helping two committed partners to reconcile, not for two kids who just broke up.  They were teens, just learning about intimacy and commitment.  What needed to happen was that the boy's friends tell the police that someone has a new assault weapon and is planning to kill a lot of people with it, at such a place and such a time.  That is what the editor was writing about.",
+    "result": {
+      "reasoning": "The comment discusses sensitive topics like gender dynamics, violence, and stalking. While the tone is argumentative and expresses strong opinions, it does not use slurs, hate speech, or direct personal attacks against the interlocutor. The user is presenting a perspective on social behavior and conflict resolution. While the hypothetical scenario involving police and assault weapons is intense, it is framed as a commentary on a specific editorial rather than a threat. The overall tone is analytical rather than abusive.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 443676,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "No, but apparently they are getting it up the Butte... \n\nSave all the communities is my motto...  A lot of the money to help these communties is national money, that all US tax payers put into the pot to help. Just as \"our\" money here goes to help the recent floods in the Lesser 48.",
+    "result": {
+      "reasoning": "The comment begins with a crude, sexually suggestive pun ('getting it up the Butte') which is disrespectful and unprofessional. However, the remainder of the comment shifts to a coherent, non-toxic argument regarding national tax distribution and disaster relief. While the opening is rude, the overall intent is to participate in a policy discussion rather than to harass or attack individuals.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 344325,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\" If you can't figure out how to out-dodge the ubiquitous cigarette smoke that is all around you , then resign to the fact that you just don't matter,  your right to breathe clean air while you exercise in a Eugene park doesn't matter,  and you should just go suck an egg.\"    Nice.",
+    "result": {
+      "reasoning": "The comment uses condescending and dismissive language to belittle the user's concerns about public health. By telling the user they 'don't matter' and using the insulting phrase 'go suck an egg,' the author adopts an aggressive and hostile tone intended to silence the other person's perspective.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 523167,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"...get to work in the morning...\" ?? WTF, are you joshin' me? I never roll in 'til at least noon, then it's right back out the door for that two Martini lunch (on the company dime of course, and yes I drink Hendricks, only the best for The Boss). And I'm gonna track that oil price, if it proves out we might just have somethin for ya.",
+    "result": {
+      "reasoning": "The comment uses informal, slightly provocative language and describes a lax work ethic, but it does not contain hate speech, personal attacks, or harassment. The tone is sarcastic and boastful rather than malicious or intended to silence others. It is not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 336185,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "A lot of them okay? A meaningful number.\n\nThis is an under-reported story- the fact that a handful of evangelical christians have shaped homeless policy in an undemocratic way by handing out lots of camping supplies.  They reject any criticism and reject any input from neighbors.",
+    "result": {
+      "reasoning": "The comment expresses a critical viewpoint on a specific group's influence on public policy. While it is accusatory and uses strong language like 'undemocratic', it focuses on policy impact and behavior rather than attacking individuals with slurs or dehumanizing language. It remains within the realm of political discourse and criticism.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5746271,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You may not have noticed but I was replying to a comment posted in the Latin language. I feel that the poster will understand what I wrote.",
+    "result": {
+      "reasoning": "The comment is polite, explanatory, and addresses a misunderstanding regarding language usage. There is no aggression, insults, or disrespectful language present. It is a neutral clarification.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 455611,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "It was more cost effective to rape black, female, slaves and enslaving their children, than buying adult slaves. Rape was just a business decision and fun. The memoirs of Mary Chestnut mentions how white wives of slave owners didn't like the fact that so many of their slaves looked like their husbands.",
+    "result": {
+      "reasoning": "The comment uses extremely graphic and dehumanizing language to describe historical atrocities. While it references historical context, the framing of sexual violence as a 'business decision and fun' is deeply offensive, promotes hate speech, and trivializes severe human rights abuses. This content is highly inflammatory and falls under the category of Very Toxic.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 827717,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "If Trudeau does not accept your advice, Ms Wente, he's a damned fool. He will ignore it.",
+    "result": {
+      "reasoning": "The comment expresses a strong political opinion and uses mild derogatory language ('damned fool') directed at a public figure. While it is critical and slightly aggressive, it does not constitute hate speech, harassment, or a personal attack intended to silence the recipient. It falls within the realm of harsh political discourse.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5945917,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I completely disagree with you Amy that the woman does not have her family as a priority. First off, not everyone thinks that birthdays are \"monumental\". Second, why shouldn't she be able to do what she wants for her birthday? My SIL gave my brother a once in a lifetime trip to a private golf course that they only let so many non members in a year for his birthday because she knew it would make him happy. That is unconditional love, when you want the person you love to be happy. Just because a person gets married and has kids does not mean that they give up their wants and likes. And it sure as heck does not mean that she does not love her family or that she is cheating or mentally checked out. If it was reversed and the man went on a fishing trip with his buddies, no one would care. Give women a break already.",
+    "result": {
+      "reasoning": "The comment expresses a strong disagreement and defends a specific viewpoint regarding gender roles and personal autonomy. While the tone is assertive and slightly confrontational, it remains focused on the argument rather than attacking the individual personally. It uses logical counter-examples and addresses the perceived double standard without resorting to insults, slurs, or harassment. Therefore, it is considered non-toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5132846,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What about cutting the head off of the snake by targeting little Kim Fat Un?",
+    "result": {
+      "reasoning": "The comment uses dehumanizing language and calls for violence against a specific political figure. The use of a derogatory nickname and the metaphor of 'cutting the head off the snake' implies a desire for assassination or lethal force, which constitutes a severe violation of safety guidelines regarding harassment and incitement to violence.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 858911,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What are you reading? Most articles and comments here are concerned with sexual morality and transgender issues. Any social matters discussed are the espousing of left wing causes which have nothing in common with Catholic social teaching.",
+    "result": {
+      "reasoning": "The comment expresses a critical opinion about the content of a platform, specifically highlighting a perceived bias toward certain social and political topics. While the tone is critical and potentially confrontational regarding ideological differences, it does not use slurs, personal attacks, or aggressive language. It is a critique of the discourse rather than an attack on an individual, making it 'Not Toxic'.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 1039966,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "John F,\nYou allow that there may be room for error in how people interpret the display of the Confederate flag. Therefore in displaying that controversial symbol, the motives of those making their statements should be consulted. That's been one of my two points in posting here.\nAs to whose interpretation is more relevant, the displayer's or the viewers, again I think the displayer's motives need to be consulted in making that determination.",
+    "result": {
+      "reasoning": "The comment is written in a calm, argumentative, and respectful tone. It focuses on a philosophical disagreement regarding the interpretation of symbols and motives. There is no name-calling, aggression, or hateful language present. The intent is to engage in a civil debate.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5792266,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The righteous ALT LEFT will eradicate fascist inbred redneck white supremacists like cockroaches. We will hunt them down like pigs and lynch them in our town squares and cities. We will gut them as they emerge from their backwoods swamps. Be warned white supremacist/nationalist scum. We will kill you and burn down your homes and destroy you and your families. The righteous ALT LEFT will cut your filthy throats in your homes in fort of your children.",
+    "result": {
+      "reasoning": "The comment contains explicit, graphic threats of violence, murder, and terrorism directed at specific groups. It uses dehumanizing language and incites physical harm, which constitutes extreme toxicity and violates safety policies regarding hate speech and violent threats.",
+      "toxicity_score": 1.0,
+      "error": false
+    }
+  },
+  {
+    "id": 4982406,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"...the truth\"???   Whose moral authority would condone what happened with these schools?  Yours, perhaps????",
+    "result": {
+      "reasoning": "The comment uses a confrontational and skeptical tone, employing rhetorical questions to challenge the interlocutor's moral standing. While it is aggressive and accusatory, it does not contain slurs, threats, or dehumanizing language. It falls into the category of a heated debate rather than clear toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5243145,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Exactly!  And is fun to read how you send up \"traditional\" catholics with your over-the-top satire.  The inflated educational claims, the hyperbolic self-righteousness, the over-stated cries of being harassed! I am sure, as you say, the folks here who know how to use humor to communicate a point recognize you are lampooning those who identify as \"conservative\" or \"traditional\" catholics.  So, yes, keep up the Funny!",
+    "result": {
+      "reasoning": "The comment is supportive and appreciative of the author's satirical style. While it uses strong language to describe the targets of the satire (e.g., 'inflated educational claims', 'hyperbolic self-righteousness'), it is framed as an analysis of the author's rhetorical technique rather than a direct attack or harassment. The tone is positive and encouraging toward the author.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 404214,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I'll save you the trouble of reading the article. \n\nJerry Prevo is an asshole.",
+    "result": {
+      "reasoning": "The comment uses a derogatory slur ('asshole') to describe a specific individual. While it expresses a strong negative opinion, it is directed at a public figure rather than a private individual or a protected group. The tone is aggressive and disrespectful, which qualifies as toxic, though it lacks the extreme hate speech or threats associated with 'Very Toxic' labels.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5205035,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Of course, there is only one Christ.  The issue is that the priest is \"an image of Christ.\"  Does this require the priest to be male?  Absolutely not, because the Word became *flesh* (*human*).  The incarnated masculinity of Jesus is part of God embracing all the limitations of the human condition.  For the redemption, and the sacramental economy, the incarnated masculinity of Jesus is as incidental as the color of his eyes.",
+    "result": {
+      "reasoning": "The comment presents a theological argument regarding the gender of the priesthood. While it challenges traditional religious views, the tone is analytical, respectful, and focused on theological interpretation rather than personal attacks, insults, or aggressive language. It does not contain hate speech or harassment.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5209265,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "BS\n\nCommunist China is a disease that keeps on giving.    It gives nothing but corruption, evil, and mendacity.  Yet, it is highly infectious. \n\nToo many  Canadians Liberals have caught the bug, [they are susceptible], aided and abetted the \n bug, are making too much  money off of  it, and deserve to  die in shame and ignominy. \n\nYou filthy slime balls, you make single cell organisms proud in comparison.",
+    "result": {
+      "reasoning": "The comment uses dehumanizing language ('filthy slime balls', 'single cell organisms'), expresses extreme hostility, and includes a death wish ('deserve to die in shame and ignominy'). The tone is aggressive, hateful, and clearly intended to insult and demean specific political groups. This meets the criteria for 'Very Toxic'.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 6129539,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "We've been updating the tech for years.",
+    "result": {
+      "reasoning": "The comment is a neutral, factual statement regarding a project's timeline. It contains no aggressive, rude, or disrespectful language and does not target anyone. It is clearly not toxic.",
+      "toxicity_score": 0.0,
+      "error": false
+    }
+  },
+  {
+    "id": 5529402,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"ISIS and their Muslim radical friends are laughing at liberal Canada.\"\n\n--\n\nThey are?\n\nProof?\n\nEvidence?\n\nLink?\n\nAnything?",
+    "result": {
+      "reasoning": "The comment uses inflammatory generalizations by associating a specific religious group with terrorism to criticize a political stance. While it is provocative and relies on divisive rhetoric, it does not contain direct slurs or threats, placing it in the 'Toxic' category due to its disrespectful and polarizing nature.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 555866,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Since you can not or will not conduct a debate in a civil manner and refuse to refute just one fact I have recounted to you in the last year, I hope you enjoy your world of fantasy on your own.",
+    "result": {
+      "reasoning": "The comment expresses frustration and dismissiveness toward an interlocutor, accusing them of being uncivil and irrational. While it is confrontational and condescending, it does not contain hate speech, slurs, or threats. It falls into the category of a heated interpersonal disagreement rather than severe toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5115219,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The g and m, the dumbest and lowest \nsacks of fecal matter.\n  It's time a real man is running the US. \nMy greatest hope is he gets Russia so\ntickek he starts a nuclear war and russia\ndrops their first on g and m. Rid the world\nof that shoddy rag, along with thier limp\nwristed staff.",
+    "result": {
+      "reasoning": "The comment uses dehumanizing language ('sacks of fecal matter'), insults the intelligence of specific individuals, and explicitly expresses a desire for nuclear war to result in the death of journalists and staff. This constitutes severe harassment, violent rhetoric, and hate speech, clearly falling into the 'Very Toxic' category.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 926217,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You, John Titior, and several others here should stop taking foreign visitor visas looking for children to have sex with. Studies show 85-percent of child sex perpetrators using tourist visas to Latin America are white men.",
+    "result": {
+      "reasoning": "The comment makes a severe, unsubstantiated, and defamatory accusation of criminal behavior (child sex tourism) against specific individuals. By labeling them as perpetrators of heinous crimes based on their identity and presence in a discussion, the comment is highly aggressive, inflammatory, and intended to harass or silence the targets. This constitutes a personal attack that is clearly toxic.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 6180251,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "DOGS----\nEAT\nSHIT\nSLEEP\nBARK\n\nNIGERS\nEAT \nSHIT\nSLEEP\nRAPE\nMURDER\nSTEAL\n\nDOGS and NIGERS---PAST TIME to EXTERMINATE the FILTHY NON-HUMAN MONGRELS",
+    "result": {
+      "reasoning": "The comment uses extreme racial slurs, dehumanizing language, and explicit calls for genocide/extermination against a specific racial group. This constitutes severe hate speech and is highly toxic.",
+      "toxicity_score": 1.0,
+      "error": false
+    }
+  },
+  {
+    "id": 5300391,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "If criminals obeyed laws....like say the new gun-grabber law  requiring someone to submit to a background check before takin possession of a gun.....then either the guns would still be in the store or the criminals would have left behind photocopies of their IDs and background paperwork.  \n\nBlaming the guns for being stolen is like blaming a woman for being raped.",
+    "result": {
+      "reasoning": "The comment uses a highly inflammatory and offensive analogy comparing gun control legislation to victim-blaming in cases of sexual assault. While the first part of the comment presents a political argument regarding the efficacy of gun laws, the second part introduces a deeply insensitive comparison that is likely to cause significant offense and derail constructive discussion. The tone is aggressive and provocative.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5410090,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The left reflexively came to the defense of a religious freedom concept that really separates Church and State in the secular realm and does not give preference for one religious view point over another.  I am not personally interested in giving fundamental Christianity any rights over our constitutional system anymore than I would fundamentalist moslems or jews.",
+    "result": {
+      "reasoning": "The comment expresses a political and ideological opinion regarding the separation of church and state. While it uses strong language and mentions specific religious groups, it does so in the context of a debate about constitutional rights and secularism rather than attacking individuals or groups with hate speech or harassment. The tone is argumentative but remains within the bounds of civil political discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 706754,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "As I correctly said, NFP is a method of having sexual without procreating. Otherwise, why would anyone bother with it.\n\nI notice that you do not give an alternate definition of contraception. Because I gave a perfectly good one.",
+    "result": {
+      "reasoning": "The comment is argumentative and assertive, focusing on a debate regarding definitions and terminology. While the tone is condescending and dismissive of the other person's perspective, it does not contain hate speech, personal attacks, or aggressive profanity. It remains within the realm of a heated intellectual disagreement.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 842784,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Well if it tells you anything he didn't even turn himself in. Karen Unger did it for him after speaking to him and took over the case in an instant. Clearly, he has friends in higher places than my Uncle did.",
+    "result": {
+      "reasoning": "The comment expresses frustration and suspicion regarding perceived bias or corruption in a legal or social situation. While it implies unfair treatment and favoritism, it does not use slurs, threats, or aggressive personal attacks. The tone is critical and cynical but remains within the bounds of civil discourse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 324164,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "And he will soon be replaced...then killed...then replaced...then killed...then replaced...then killed...then replaced. The pattern must be to big to fail because the pattern will continue for as long as we are there.",
+    "result": {
+      "reasoning": "The comment describes a repetitive cycle of violence and assassination regarding a political or leadership figure. While the tone is dark and cynical, it functions as a critique of a geopolitical situation or systemic pattern rather than a direct threat or targeted harassment against an individual user. However, the explicit mention of killing makes it aggressive and potentially disturbing, leading to a moderate toxicity rating.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 368919,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"Latino\", ending with \"o\" denoted the Spanish masculine. \"Latina\", ending with \"a\" denotes feminine. This is the first I've heard of \"Latinx\".",
+    "result": {
+      "reasoning": "The comment is an objective linguistic observation regarding gendered endings in the Spanish language and expresses personal unfamiliarity with the term 'Latinx'. The tone is neutral, informative, and lacks any aggressive, hateful, or disrespectful language. It does not attack any group or individual.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 6015185,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Something hilariously hypocritical is going on, which basically unmasks the fact that this is not about patriotism, but about racism - through the conflation of partriotism and opposition to protests over racial injustice.\n\nSo, players have kneeled, players have remained in the lockeroom.  Owners have shown up on the field to lock arms with their players.\n\nAnd while this is going on, WHILE THE NATIONAL ANTHEM IS PERFORMED, the yahoos in the stands are yelling at the players to stand up.  WHILE THE NATIONAL ANTHEM IS BEING PERFORMED.\n\n- Not standing deferentially.\n\n- Not standing and paying attention to the glory of the flag and anthem.\n\n-Yelling orders at black men below them.\n\n. . . maybe they think that conduct IS what patriotism is all about??",
+    "result": {
+      "reasoning": "The comment uses strong, critical language to challenge the behavior of fans at a sporting event, labeling them 'yahoos' and accusing them of hypocrisy and racism. While the tone is confrontational and accusatory, it focuses on criticizing a specific social behavior and political stance rather than engaging in personal harassment or hate speech against protected groups. It is a sharp critique of perceived double standards, which falls under the category of heated political discourse rather than toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 615260,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You liberals always hark back to the bishops and child abuse. Hardly ever do we hear the abusing priests criticised in this forum, it is always the bishops. You know as well as I do that the bishops are subject to the Commandments and binding teaching of the Church just like everyone else. Like the rest of us, if they have done wrong they will account for it if not in this world then in the next. You don't appear to extend your 'shades of grey' theory to them.\nThis shades of grey theory supposes that the vast majority of us don't know what day it is. That life is fraught with so many problems that we cannot come to any rational decision as to what is right and what is wrong. Those of us who bother to examine our consciences and let's face it I doubt that many people even Christians do, atheists and agnostics certainly won't as they mainly subscribe to the animal instinct of self-preservation, need guidance as our intellects and wills are flawed through Original Sin.\nContinued .....",
+    "result": {
+      "reasoning": "The comment expresses strong political and religious disagreement, using generalizations about 'liberals' and 'atheists/agnostics'. While the tone is argumentative and condescending, particularly in its dismissal of non-believers as acting on 'animal instinct', it does not cross into hate speech, threats, or severe harassment. It remains within the realm of heated ideological debate.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 6051702,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Please check your facts.  The underlying premise of these so-called protests is wrong.  The facts are wrong, the narrative is factually incorrect and by watching I would be giving support to what amounts to a demonstrative falsehood.  I have followed the Broncos since Floyd Little was drafted.....no more.  I am done!!!",
+    "result": {
+      "reasoning": "The comment expresses a strong personal disagreement and a decision to stop supporting a team based on political or social views. While the tone is frustrated and firm, it does not use slurs, personal attacks, or aggressive language directed at individuals. It is a statement of personal opinion and a boycott, which falls under civil discourse despite the strong negative sentiment.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5235883,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Comey rigged the election. He's a Russian agent. Fire his butt.",
+    "result": {
+      "reasoning": "The comment uses aggressive, accusatory language and inflammatory political rhetoric. While it expresses a strong opinion and uses a derogatory term ('butt'), it does not contain hate speech, threats of violence, or severe harassment, placing it in the 'Toxic' category due to its disrespectful and unreasonable tone.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 306369,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The Anti-Christ? Love your Democratic Party. Just toss in a Clinton Jewish Law Degree.\n\nhttps://www.youtube.com/watch?v=N3n9yjiuMLI",
+    "result": {
+      "reasoning": "The comment uses inflammatory political rhetoric, religious labeling ('Anti-Christ'), and invokes antisemitic tropes by specifically highlighting a 'Jewish Law Degree' in a derogatory context. This combination of political hostility and identity-based prejudice is intended to demean and provoke, falling into the 'Toxic' category.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 782056,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "the moslems invaded israel and built their sign of conquer on what they believed to be the temple mount. that land of israel was given to abraham, isaac, and jacob. the book is not a trilogy- the Lamb of God is the beginning and the end. you call the God of the Jews and Christians 'ha-satan'? yet you claim to be  the final chapter? so interesting.",
+    "result": {
+      "reasoning": "The comment uses inflammatory religious and historical rhetoric, specifically using the term 'invaded' and 'sign of conquer' to describe religious sites. While it expresses strong disagreement and challenges the beliefs of others, it does not descend into direct slurs, threats, or dehumanizing language that would typically trigger a 'Very Toxic' rating. However, the tone is confrontational and dismissive of another group's faith, which is likely to be perceived as toxic by many readers.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 476844,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "how much crap are we going to take? they stole our fish and we said nothing, they stole our crab and we said nothing. now they steal our dividend and i hear some mouse like complaining. how about taking to the streets people?  how about some good old fashioned civil disobedience? lets start with the dividend and get our ifq fisheries back! for once lets think of future generations.",
+    "result": {
+      "reasoning": "The comment expresses strong frustration and uses aggressive, provocative language ('crap', 'mouse like complaining') to incite action. While it advocates for civil disobedience, which is a form of political protest, it does not cross into hate speech, harassment, or threats of violence against individuals. The tone is angry and confrontational, but it remains within the realm of political grievance and activism.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 5733436,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Well, this one lays at the feet of the Chinese and the past two Presidential administrations.",
+    "result": {
+      "reasoning": "The comment expresses a political opinion by assigning blame to specific entities (a foreign nation and domestic political administrations). While it is critical and potentially controversial, it does not use slurs, personal attacks, or aggressive language. It remains within the bounds of civil political discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 6300562,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Exactly how I said. Being gay does not make you turn to drug and violence. That is a false cause argument. Being gay has a stigma associated with it. Many LGBTQ youth find themselves disowned or passed by. Those things always lead to worse lifestyles. \n\nThe only thing I've been arguing is that being gay does not predispose you to certain illicit behaviors. The way people treat LGBTQ people does. We're all aware of the bullying epidemic and the suicide rates of LGBTQ people.\n\nI'm not defending Adam West here, nor am I gay, as people seem to be \"accusing\" me of. They just don't understand how they are twisting the narrative to fit their intolerance. \n\nA perfect example are the first series of comments. \"Not surprised at all this happened. Gay people have special protections.\" And then in the next breath statistics are stated that show just how unprotected LGBTQ people are. Then the leap quickly goes to imply that being LGBTQ makes you more likely to be a serial killer.",
+    "result": {
+      "reasoning": "The comment is analytical and argumentative, focusing on debunking logical fallacies and addressing social issues like stigma and discrimination. The tone is firm and critical of others' intolerance, but it does not employ insults, hate speech, or aggressive language. It is a constructive contribution to a debate.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 250751,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Wikipedia:\nHomophobia encompasses a range of negative attitudes and feelings toward homosexuality or people who are identified or perceived as being lesbian, gay, bisexual or transgender (LGBT).[1][2][3] It has been defined as contempt, prejudice, aversion, hatred or antipathy, may be based on irrational fear, and is sometimes related to religious beliefs.[4]\n\nI don't need to meet Trump or McKinley to know they are bigots.  I will say whatever I want about you or him, \" my friend\"",
+    "result": {
+      "reasoning": "The comment begins with a neutral, encyclopedic definition of homophobia. However, the second paragraph shifts to a confrontational and aggressive tone, using the term 'bigots' to label individuals and explicitly stating an intent to speak disrespectfully to the interlocutor. While it does not contain slurs, the hostile intent and dismissive attitude toward the recipient make it toxic.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5997855,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "You are murdering feckless SCUM.  Your mother would slap you for being the piece of shit that you are.  I hope you die in enormous pain from cancer in your asshole that makes you cry from the pain every time you shit you fucking subhuman scum......Fuck you. I would gladly cut your fucking balls off in a minute....go suck cock you piece of shit! Fuck you and your mother you sorry fuckin swill!",
+    "result": {
+      "reasoning": "The comment contains extreme profanity, dehumanizing language, graphic violent threats, and targeted harassment. It is clearly intended to cause severe emotional distress and violates all standards of civil discourse.",
+      "toxicity_score": 1.0,
+      "error": false
+    }
+  },
+  {
+    "id": 939610,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Totally disagree with these thugs.  They are no didferent from the klu klux klan. They are not doing anything positive- only looting and destroying things. All black bloc should be arrested and thrown in jail.  If you want change, then use the ballot box.",
+    "result": {
+      "reasoning": "The comment uses inflammatory language by comparing a group to the KKK and labeling them as 'thugs'. While it expresses a strong political opinion and advocates for legal consequences, the use of dehumanizing comparisons and aggressive labeling contributes to a toxic tone that discourages constructive dialogue.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 1032551,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Canadians will vote out Muslim Vote bank politics",
+    "result": {
+      "reasoning": "The comment uses the term 'vote bank politics' in relation to a specific religious group, which is a common trope used to marginalize minority communities and imply they are a monolithic political force. While it expresses a political opinion, the framing is exclusionary and targets a protected group, which many would perceive as disrespectful or inflammatory.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 692264,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The CEO of Exxon Mobil as US Secretary of State would make a lot of sense, actually.\n\nYanks might as well eliminate all of the middle players and receive their marching orders from the \"God Pod\" directly, eh.",
+    "result": {
+      "reasoning": "The comment uses a cynical and sarcastic tone to criticize the appointment of a corporate executive to a government position. While it employs a derogatory nickname for Americans ('Yanks') and uses mocking language ('God Pod', 'marching orders'), it functions as political commentary rather than a direct personal attack or hate speech. It is unlikely to cause someone to leave a discussion, though it is clearly disrespectful of the political process.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5746133,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What you are saying is you need $4 million dollars!",
+    "result": {
+      "reasoning": "The comment is a direct observation or a rhetorical question regarding a financial figure. It lacks insults, aggressive language, or hateful intent. It appears to be a neutral or slightly skeptical inquiry about a stated amount of money.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 710456,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "They all deserve to die, too bad we can stone them in town square.",
+    "result": {
+      "reasoning": "The comment expresses a desire for mass violence and death, specifically referencing stoning as a method of execution. This constitutes a severe threat and promotes extreme hatred, which is classified as Very Toxic.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 996371,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "So called? Excellent choice of phrase. Now you have as much credibility  as d Trump. Congratulate yourself.",
+    "result": {
+      "reasoning": "The comment uses sarcasm and a comparison to a polarizing political figure to undermine the target's credibility. While it is dismissive and rude, it does not contain hate speech, threats, or severe harassment. It falls into the category of a disrespectful, argumentative comment.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 1043422,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Easiest way to change this is to just pee all over the seat. Women will eventually get sick of wiping off the seat and want to ban penises from their bathrooms.",
+    "result": {
+      "reasoning": "The comment uses crude, disrespectful, and aggressive language. It suggests a form of harassment or vandalism as a tactic to influence social policy, which is inherently toxic and promotes hostile behavior in a public space.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5826168,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Best book I've read in a long time. Couldn't put it down.",
+    "result": {
+      "reasoning": "The comment expresses a positive opinion about a book. The tone is enthusiastic and appreciative, with no aggressive, rude, or disrespectful language. It is clearly not toxic.",
+      "toxicity_score": 0.0,
+      "error": false
+    }
+  },
+  {
+    "id": 5865673,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "He doesn't deserve a job because he is a terrible quarterback. His skin color has nothing to do with it. I wish people would stop making race and issue with football when well over 70% of all professional football players are not white.",
+    "result": {
+      "reasoning": "The comment expresses a strong negative opinion about a professional athlete's performance and argues against the relevance of race in the context of the sport. While the tone is blunt and dismissive of the athlete's professional capability, it does not employ slurs, hate speech, or personal attacks based on protected characteristics. It frames the argument as a critique of performance and a disagreement with the discourse surrounding race in sports, which falls within the bounds of civil, albeit heated, debate.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 743370,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "how many decades of dirty dick Cheney will suit you now that he's back in charge?",
+    "result": {
+      "reasoning": "The comment uses aggressive, vulgar, and inflammatory language ('dirty dick') to attack a political figure. While it expresses a strong political opinion, the use of ad hominem insults and crude phrasing makes it disrespectful and hostile, which is characteristic of toxic discourse.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5230705,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "To continue:  women are better educated than any other time in history, and they don't want to be treated like children anymore; hence, the decline in sisters and nuns. And the orders of sisters who do treat their members like adults run the risk of getting in trouble with The Vatican (not necessarily with Pope Francis).  Women don't want their gender and 'sex' being seen as the root of all evil.  People have a hard time believing in Original Sin.  People don't see why divorce and remarriage are wrong.  People don't see why contraception is wrong (and I don't either but I think abortion is almost always wrong).  Too many of our RC senior citizens are spending their last years wondering if they are going to hell when they die -- what a great way to spend one's remaining years.  No one wants to spend their whole life being threatened with Hell if they step out of line once too often and don't 'repent'.  The RCC needs to address these issues and to mature.",
+    "result": {
+      "reasoning": "The comment expresses strong personal opinions and criticisms regarding the Roman Catholic Church's doctrines and internal culture. While the tone is critical and challenges institutional authority, it does not employ hate speech, slurs, or personal attacks against individuals. It frames its arguments around sociological observations and personal beliefs, which constitutes legitimate discourse on religious and social issues rather than toxic behavior.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 6005736,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "This is a cartoonish portrayal of men. Many men want a life partner every bit as much as do women.",
+    "result": {
+      "reasoning": "The comment expresses a disagreement with a portrayal of gender dynamics. It uses neutral language to offer a counter-perspective without resorting to insults, slurs, or aggressive behavior. The tone is analytical and constructive rather than hostile.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5742462,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "T. Swift alleges that M. Mueller touched her bare bottom.  No panties?  I'd have gone for a sphincter massage.  Some girls like dat.",
+    "result": {
+      "reasoning": "The comment uses sexually explicit and objectifying language to trivialize an allegation of sexual assault. It expresses a predatory sentiment and is highly disrespectful, which qualifies as very toxic behavior.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 5801652,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Awesome! Lets cut the head off hate! Lets stab it and burn its house down! lets march together and beat hate with rocks and clubs and run out out of town! Hooray for us for showing hate we will not tolerate it and will kill or beat down any that oppose or stance against hate. \n\nYeah, that sounds like the good guys. Why is it so hard for people to admit that using violence to achieve a goal is not acceptable in a civil society?",
+    "result": {
+      "reasoning": "The comment begins with a highly aggressive, violent, and hyperbolic parody of anti-hate rhetoric, using graphic imagery of stabbing, burning, and beating. While the second paragraph clarifies that the user is criticizing this violent approach, the initial section uses extreme, inflammatory language that mimics threats of violence. Because the comment contains explicit descriptions of physical harm, it is rated as toxic despite the user's intent to critique violence.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5335759,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "In the March budget the feds made it mandatory to report the sale of your princ. dwelling. This partly addresses the ones buying and selling for business sake and claiming it as p.dwelling. There is no magic number for how many homes you can buy and sell claiming p.d. they(cra) look for a pattern over time Hike in interest will cool things as well. the problem is mostly in T.O. Vanc. Montreal...to try and slow a few places down and affect the country seems extreme. New York, chicago,Miami all have their  ridiculous price tags and large appreciation margins...let Canada have theirs.",
+    "result": {
+      "reasoning": "The comment is informative and provides a balanced perspective on government policy, housing market trends, and economic factors. The tone is analytical and objective, with no personal attacks, hate speech, or aggressive language. It expresses a disagreement with policy scope but does so in a respectful and constructive manner.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5802911,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Welcome home!",
+    "result": {
+      "reasoning": "The comment is a standard, polite, and welcoming greeting. It contains no aggressive, hateful, or disrespectful language and is clearly intended to be friendly.",
+      "toxicity_score": 0.0,
+      "error": false
+    }
+  },
+  {
+    "id": 295745,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Kill all the nigggers and pedophiles!",
+    "result": {
+      "reasoning": "The comment contains explicit hate speech, racial slurs, and incitement to violence against specific groups. This is a clear violation of safety policies regarding hate speech and harassment, and it is categorized as extremely harmful and aggressive.",
+      "toxicity_score": 1.0,
+      "error": false
+    }
+  },
+  {
+    "id": 749153,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Lies, damn lies and POLLS! All skewed ti get the desired result.  No one pays any attention to them!",
+    "result": {
+      "reasoning": "The comment expresses strong skepticism and frustration regarding political polling. While it uses dismissive language ('Lies, damn lies'), it targets a concept (polls) rather than attacking individuals or protected groups. The tone is argumentative but does not cross into harassment or hate speech.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5764592,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "On August 9, Clarence Dix and Bob Avakian of the Revolutionary Communist Party (revcom.us) wrote asking people to come to Charlottesville and fight the fascist regime of Trump etc. The problem was not \"white nationalists\", but the mayor telling the local police, state troopers and national guard to stand down, thereby allowing chaos to ensue. Local and state officials are responsible for the death and destruction.",
+    "result": {
+      "reasoning": "The comment expresses a controversial political opinion regarding the events in Charlottesville. While it assigns blame to specific government officials and challenges the mainstream narrative, it does not use slurs, personal attacks, or hate speech. The tone is argumentative but remains within the bounds of political discourse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5883664,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": ".\n.\nIs there really a God ?\n... I once thought there was even after being RAPED Physically, Emotionally AND SPIRITUALLY by my pastor, til I witnessed how these so called mEN of God(Jorge et. al.) Damned their OWN Victims.\n.\nIf there is a God...and he has the conjones to let me into heaven, after having to Live this Hell wrought by these so called mEN of God, I'm going to give him a good swift kick in the arse !\n.\n.",
+    "result": {
+      "reasoning": "The comment expresses deep personal trauma and anger directed at religious figures and the concept of God. While the language is aggressive and includes a hypothetical threat of violence against a deity, it is clearly rooted in the user's experience of severe abuse. It does not target a specific individual for harassment in a way that violates standard safety policies, but the tone is highly hostile and disrespectful toward religious beliefs.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 756564,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Don't confuse a meaningless reaction geared for public consumption. The resolution adopted on Friday at the U.N. changes nothing on the ground between Israel and the Palestinians and likely will be all but ignored by the incoming Trump administration. Last time anyone looked, the Palis were still sucking on sand and rubble, still with the lowest standard of living, still throwing rocks at steel, still engaged in honor killings of wives and daughters, still engaging in female genital mutilation, still torturing and murdering gays, still stabbing innocent Israelis, still.... What a wonderful culture.",
+    "result": {
+      "reasoning": "The comment uses dehumanizing language ('sucking on sand and rubble'), employs broad, inflammatory generalizations about a specific culture, and uses sarcasm ('What a wonderful culture') to mock and disparage. It promotes harmful stereotypes and expresses intense hostility, which qualifies as 'Very Toxic'.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 553508,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Meh, you know, abortion is in most cases not the \"difficult\" or \"soul searching\" decision a lot of you guys want it to be (for whatever reason). Women are, as a whole, pretty damn good at already knowing what they want.",
+    "result": {
+      "reasoning": "The comment expresses a controversial opinion on a sensitive topic using a dismissive and slightly confrontational tone. While it challenges a common narrative, it does not use slurs, direct insults, or hate speech. It is argumentative but remains within the bounds of civil discourse regarding public policy and social issues.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5973433,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Yet still the  choking smog in Beijing, Shanghai and other Chinese cities... just imagine the level of greenhouse gas pollution, but despite this, the lemmings are out in full force trumpeting China as a shining example of environmental sensitivity.  Shocking!",
+    "result": {
+      "reasoning": "The comment uses critical and provocative language, specifically the term 'lemmings' to insult those who hold a different viewpoint. While it expresses a strong political and environmental opinion, it stops short of hate speech or severe harassment. The tone is condescending and aggressive, which qualifies as toxic, but it remains within the realm of heated political discourse.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5864070,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "No, the traditionalist \"wing\" of the Church is \"disappointed\" in his heterodoxy.",
+    "result": {
+      "reasoning": "The comment uses neutral, descriptive language to characterize a specific group's reaction to a public figure's theological stance. While it uses terms like 'heterodoxy' and 'traditionalist wing', these are standard academic or religious descriptors rather than insults or attacks. The intent is to provide context or report on a viewpoint, not to harass or demean.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 733486,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "There is a cleric of that Old Catholic Church that posts here.  He doesn't identify himself as such, but his avatar is a picture of  him in a Roman collar.  When I asked him about, he hemmed and hawed.  I think that there are many who simply want the Church to change to suit them.  I don't know why - perhaps they feel threatened??",
+    "result": {
+      "reasoning": "The comment expresses skepticism and criticism regarding another user's identity and motivations. While it is confrontational and makes assumptions about the other person's character, it does not use slurs, threats, or dehumanizing language. It falls into the category of a heated disagreement or personal critique rather than severe toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5885805,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Hope they're both beaten to death in the can. Should have gotten the death penalty. Says everything about Kansas social services. It's a sick country.",
+    "result": {
+      "reasoning": "The comment expresses a desire for extreme physical violence ('beaten to death') against individuals, which constitutes a direct threat and promotes severe harm. This language is highly aggressive, hateful, and violates standard safety guidelines regarding the promotion of violence, placing it firmly in the 'Very Toxic' category.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 1005458,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Corbell, you are a cowardly little man, if indeed you are a man. Not likely however.",
+    "result": {
+      "reasoning": "The comment uses ad hominem attacks, questioning the target's character and gender identity in a derogatory manner. The intent is clearly to insult and demean the individual, which constitutes toxic behavior.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 1028354,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"President Trump continues to be respectful and supportive of L.G.B.T.Q. rights, just as he was throughout the election,\" the White House said in a statement. \n\n\"The president is proud to have been the first ever G.O.P. nominee to mention the L.G.B.T.Q. community in his nomination acceptance speech, pledging then to protect the community from violence and oppression.\"",
+    "result": {
+      "reasoning": "The comment is a neutral, factual report of a statement made by the White House. It contains no aggressive, hateful, or disrespectful language, and its intent is to convey a political message rather than to attack or harass. Therefore, it is not toxic.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5409830,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Let me be very clear: I detest all religions equally. I find most of them to be violent, intolerant stories invented by men who had a very poor understanding of science. Religion is a personal matter, and it has no place in politics or education (unless being studied for historical purposes). \nMy government coming out and calling me an \"islamophobe\" for my personal opinions and thoughts about religion is absolutely disgusting, and I will not stand for it. Using the word \"islamophobia\" is making matters worse. Why? Because we aren't stupid. Everyone knows what it really means: Dislike of muslims, OR ISLAM.\n\nMuslims are people - People should be treated with respect, regardless of identity\nIslam is an ideology - I find the the ideology of islam nothing short of abhorrent\n\nAre you able to tell the difference? Apparently not. This is a serious problem.\n\nLiberals: Do you really think you can force me to change my opinions on religion? \nBest of luck with that.",
+    "result": {
+      "reasoning": "The comment expresses strong, controversial, and critical views on religion and political discourse. While the tone is aggressive, confrontational, and uses strong language like 'abhorrent' and 'disgusting', it focuses on criticizing ideologies and political labels rather than inciting violence or attacking individuals based on protected characteristics. It distinguishes between people and ideology, which mitigates the hate speech classification, though the aggressive delivery and dismissive tone toward opposing viewpoints make it borderline toxic.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5647080,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Missing a word.. \"ILLEGAL\"..  also, these illegals paid to be ushered in that trailer.",
+    "result": {
+      "reasoning": "The comment uses the term 'illegals' as a dehumanizing noun to refer to a group of people, which is widely considered derogatory and inflammatory in political discourse. While it does not contain profanity or direct threats, the tone is dismissive and targets a vulnerable group, which aligns with definitions of toxic speech.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5542382,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "i am just sorry that khadr didnt get a bullet in the head before he blew the head off that innocent father because his islamic boogie skywizard told him to.",
+    "result": {
+      "reasoning": "The comment expresses extreme hostility and advocates for lethal violence against an individual. It uses dehumanizing language and derogatory references to religious beliefs, which constitutes hate speech and aggressive rhetoric. The intent is clearly to incite harm and express deep-seated animosity, making it highly toxic.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 5615782,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I posted that because back in the day when the hockey team Colorado Rockies came out with a slogan of \"Rockie Hockey\" which everyone criticized because there is no such word.  It was eventually changed to \"Rocky Hockey\".  Do you consider Mt Evans a Rockie Mountain or a Rocky Mountain... how about the Rocky Mountain News as another example?",
+    "result": {
+      "reasoning": "The comment is a neutral, informative explanation regarding linguistic usage and historical context. It lacks any aggressive, hateful, or disrespectful language and is clearly intended to clarify a point of debate rather than attack anyone.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 1007681,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The slides are cut slope failures on very steep ground consisting of mainly soil, above.  Its been a maintenance problem along this stretch for decades.",
+    "result": {
+      "reasoning": "The comment provides a factual, technical explanation regarding geological slope failures and historical maintenance issues. The tone is objective, informative, and professional. There is no aggressive, hateful, or disrespectful language present.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 817479,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I hope they do repeal it. I'm going to enjoy the fallout, including the wails from the red states that most benefit from the ACA.  You can't fix stupid.",
+    "result": {
+      "reasoning": "The comment expresses a political opinion but uses inflammatory language, specifically 'wails' to describe others' suffering and the ad hominem attack 'You can't fix stupid' to insult a group of people. This creates a disrespectful and hostile tone, though it stops short of extreme hate speech.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5893289,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Gender and indigenous rights have no place at the NAFTA negotiating table.  Those are domestic issues.",
+    "result": {
+      "reasoning": "The comment expresses a political opinion regarding the scope of international trade negotiations. While it dismisses certain topics as irrelevant to the specific context of NAFTA, it does not use slurs, personal attacks, or aggressive language. The tone is argumentative but remains within the bounds of civil political discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5494490,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The fascist movement is you lefties trying to destroy democracy and freedom of religion and freedom of speech disguised as liberalism?.\nIt if you who are fascist. You accept no other opinion but your own. \nYou would destroy freedom instead of admitting you are wrong.\nWe are trying to stop the Islamists from taking over our countries, our cultures, our way of life\nand not get blown up either,\n\nThat is the age of \"F-U\" to the lefties\nNot fascism.\nIf you think we are gonna let you destroy what we have built in the west you are dreaming\ncivil war is coming - get used to it.\nWe will fight you in streets if we have to.\nYou threaten our freedoms with your communist/leftist rubbish\nYour beliefs are based on hate",
+    "result": {
+      "reasoning": "The comment uses aggressive, inflammatory language, including political name-calling ('lefties', 'communist/leftist rubbish') and xenophobic rhetoric regarding Islam. Most significantly, it contains explicit threats of violence ('We will fight you in streets if we have to', 'civil war is coming'), which constitutes a severe violation of civil discourse and promotes physical harm.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 5868187,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Ouch again! What's next - spit balls?",
+    "result": {
+      "reasoning": "The comment uses a sarcastic and mocking tone to belittle the actions or arguments of another person. While it is dismissive and rude, it does not contain hate speech, threats, or severe harassment, placing it in the 'Toxic' category rather than 'Very Toxic'.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5135589,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What I want to know is who the successful bidder was, and did he give the tax delinquents back their beetle.  That is the real issue here.  On the assumption that its original color was olive, after the owners' name, did the buyer first change the color to red so that it would stand out more in winter, or bright white so that the IRS would find it harder to seize in the future?  Did they pay their taxes or are they still paying it off by deductions to their social security?",
+    "result": {
+      "reasoning": "The comment is inquisitive and speculative regarding a specific news story or event involving tax delinquency and a vehicle. While it uses a slightly sarcastic or cynical tone regarding the IRS and the individuals involved, it does not contain hate speech, personal attacks, threats, or harassment. It is a critique of a situation rather than an attack on a person, making it not toxic.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 1010029,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Kellie Leitch talks so much about how many letters are behind her name.  But it is very clear with this eliist game she's playing on us here that the only letters she thinks are behind our names are  S*U*C*K*E*R*S !",
+    "result": {
+      "reasoning": "The comment uses a critical and confrontational tone to express political disagreement. While it uses a derogatory term ('suckers') to describe the public, it is directed at a public figure's perceived elitism rather than being a direct personal attack or hate speech. It falls into the 'Toxic' category as it is disrespectful and inflammatory, but it does not reach the level of 'Very Toxic'.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5504216,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "At least in the recent past there are 1.5 oil spills A DAY in Alaska (pipeline and/or drllling). Their safety record is assuring giving us even more faith in the industry's integrity, competence, responsibility, and priorties. Drill baby drill my ass.",
+    "result": {
+      "reasoning": "The comment uses sarcasm to criticize the oil industry's safety record and environmental impact. While it uses a mild profanity ('my ass') to express frustration and skepticism, it does not target individuals with hate speech or harassment. The tone is aggressive and cynical, but it remains within the realm of political or social commentary.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 6021492,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "This sort of thing happens every day, numerous times, in hospitals and clinics across the U.S.It's just not reported, as nurses protect their own.It's a safe bet that the manager who slapped the wrists of those perverts was a former female floor nurse who enjoyed the same kind of voyeurism. Just reverse the sexes of everyone involved, and you'll see how ugly it is.Male nurses that voyeured on a female client would not only be identified and fired, but would face serious charges via the BOB and possibly criminal charges of sexual voyeurism, which is a class four felony I believe-they might even do time in prison.\nA male friend of mine was sexually battered by a female NP.I will never again leave him alone for even one second with female medical personnel, especially nurses.THEY ARE NOT TO BE TRUSTED!This sort of incident speaks volumes of the corrupt female dominated nursing industry. If he has to be hospitalized I'll be in his room to protect him.",
+    "result": {
+      "reasoning": "The comment expresses strong resentment and generalization against a specific professional group (nurses) based on gender. It uses inflammatory language such as 'perverts' and 'corrupt female dominated nursing industry,' and makes a sweeping, hostile declaration that 'THEY ARE NOT TO BE TRUSTED!' While it discusses a serious topic (sexual misconduct), the tone is aggressive, promotes gender-based prejudice, and encourages distrust, which qualifies as toxic.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5354662,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Too many 'Gun-nuts' just don't think about the consequences of keeping un-locked weapons in the house. This is \"M'erica, you can't tell me to lock my guns\". That's the problem.",
+    "result": {
+      "reasoning": "The comment uses a derogatory label ('Gun-nuts') and employs a mocking tone to criticize a specific group's attitude toward gun safety. While it expresses a strong, controversial opinion and uses inflammatory language, it focuses on a policy and behavioral critique rather than engaging in direct harassment or hate speech against an individual. It is considered 'Toxic' due to the dismissive and provocative framing.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5488141,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"But since you talked to one liberal, clearly that's a good enough sampling to paint the whole group with one big brush.\"\n\nSo you're okay with vouchers as long as religious schools aren't involved?\n\n\"5. The quality of education at the private schools may be brought down by new students that aren't as gifted.\"\n\nMy kids went to mostly private schools, and it didn't appear that kids were turned down for having a learning disability, because some of the kids clearly did. Also if you're worried about the quality of education, schools full of illegal aliens certainly doesn't help.",
+    "result": {
+      "reasoning": "The comment contains a mix of argumentative political discourse and a xenophobic remark. While the initial parts are critical and sarcastic, the final sentence introduces a derogatory generalization about 'illegal aliens' negatively impacting education quality, which is a common trope used to marginalize specific groups. This elevates the toxicity level from a standard political disagreement to a more disrespectful and potentially harmful tone.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 1062400,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Yeah my brother lost his firearm privileges after his first DV conviction many years ago.\nThis Tran guy sounds like a real shit bag.",
+    "result": {
+      "reasoning": "The comment begins with a neutral personal anecdote but concludes with a derogatory insult ('real shit bag') directed at a specific individual. While the insult is rude and disrespectful, it does not constitute hate speech or extreme harassment, placing it in the 'Toxic' category.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5534314,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The real question is...who the hell in his/her right mind would want to adopt a micro baby???  \n\nI'd rather just rescue another shelter dog.  Cuter, smarter, more civilized and definitely smell better.",
+    "result": {
+      "reasoning": "The comment uses aggressive and demeaning language ('who the hell in his/her right mind') to criticize parents of premature infants. By comparing human infants to dogs and suggesting the animals are 'smarter' and 'more civilized,' the tone is highly disrespectful and dehumanizing. This is likely to cause significant offense and discourage constructive discussion.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5746211,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "To think this ^ regurgitating burger be arrogant enough to pretend a knowledgeable supremacy to a highly qualified legal expert. Jesus wept, and wept some more, and then expelled himself to eternal damnation in the face of such wretchedness. My guy, its better to be honest about your racial prejudice. a lesson i have come to learn... you expose yourself so easily as a right white cliche. in one sentence, you give yourself away. one sentence.  don't be boring. be like jeffery down here who's appears to be trying to summon/arouse, with the his grandpa's old wigi board, the spirit of cecil rhodes, in order (if I'm not mistaken) to enact some sort of nostalgic colonial necrophilic love journey. Jeffery has a wonderful imagination...  something i can't say for you...",
+    "result": {
+      "reasoning": "The comment uses highly aggressive, insulting, and inflammatory language. It employs ad hominem attacks, labels the target with derogatory terms, and makes accusations of racial prejudice. The tone is mocking, condescending, and hostile, clearly intended to demean the recipient rather than engage in constructive discourse. While it avoids explicit slurs, the intensity of the vitriol and the personal nature of the attacks qualify it as toxic.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 1085563,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "|This hateful incident echoes the disturbing pattern of anti-immigrant, anti-Semitic, and anti-Muslim attacks in our state, and across the country. \"\n\nHow convenient of you Mr. Inslee to omit the various attacks on American soil perpetuated by immigrants across the country towards American citizens.   Perhaps it could even be useful to list all the attacks perpetuated by immigrants upon European states as well?   Because those facts have become an all too familiar theme as well.",
+    "result": {
+      "reasoning": "The comment uses a confrontational and sarcastic tone to challenge a political figure. While it introduces controversial generalizations about immigrants and crime to counter a narrative, it does not employ slurs, direct threats, or dehumanizing language that would typically cross the threshold into 'Toxic' or 'Very Toxic' under standard moderation guidelines. It functions as a politically charged rebuttal.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 544121,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Some men just need a good stabbing. That will show them. \nI don't know if those kind of people can change. Having an open dialogue about it as a nation is a good start but for a more effective solution see above. Turn the tables around. Have the men fear the women for a change.",
+    "result": {
+      "reasoning": "The comment explicitly advocates for physical violence ('a good stabbing') against a specific group based on gender. It promotes fear and harm as a solution to social issues, which constitutes a direct threat and incitement to violence. This is highly aggressive, hateful, and clearly falls under the 'Very Toxic' category.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 5008499,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The_classic_case_was_not_masturbation_(which_requires_a_bath_in_the_Tenach),_but_in_deliberately_withholding_offspring_from_your_brother's_widow._Does_your_brother_have_a_widow?_Have_you_been_doing_your_family_duty?",
+    "result": {
+      "reasoning": "The comment references a specific biblical/historical context regarding levirate marriage and religious law. While it uses a provocative and personal tone by questioning the reader's personal life and 'family duty,' it does not employ slurs, hate speech, or overt aggression. It is argumentative and potentially intrusive, but falls into a gray area of debate rather than clear toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 687590,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "There's still time before the Christmas break to pass another one...",
+    "result": {
+      "reasoning": "The comment is neutral and observational in nature. It discusses a timeline for legislative or administrative action without using aggressive, hateful, or disrespectful language. There is no intent to harass or demean, and it does not meet the criteria for toxicity.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5036088,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Conservatives never cared about \"Wall Street\" working in the White House. \n\nThey cared about \"Wall Street\" working for Obama. \n\nConservatives never cared about presidents playing golf, they cared about Obama playing golf. \n\nHell, conservatives wouldn't even care if Donald Trump was born in Kenya. \n\nThey just don't think black people are actually American.",
+    "result": {
+      "reasoning": "The comment uses a confrontational and accusatory tone to criticize a specific political group. While it employs strong generalizations and makes a serious charge of racism, it is framed as a critique of political hypocrisy rather than a direct personal attack or hate speech directed at an individual. It is likely to be perceived as toxic due to the inflammatory nature of the final claim, but it remains within the realm of political discourse.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5848708,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Klastri, back to name calling when you can't explain a comment you made.  You said transgenders in the military is a civil right.  A sharp lawyer like you ought to be able to defend your position, so why can't you?",
+    "result": {
+      "reasoning": "The comment is confrontational and challenges the interlocutor's intellectual honesty, but it does not use slurs, hate speech, or threats. It focuses on a disagreement regarding a political/social issue and the perceived failure of the other person to defend their argument. While it is rude and accusatory, it falls into the category of heated debate rather than prohibited toxicity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 877871,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"artificial electoral college system\"\n\nThanks, I needed that chuckle.",
+    "result": {
+      "reasoning": "The comment expresses a dismissive and mocking tone toward the user's previous statement. While it is condescending and rude, it does not contain hate speech, threats, or severe harassment. It falls into the category of being disrespectful but not highly toxic.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5594663,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Once again, the little guy gets totally screwed! Thanks Obama...",
+    "result": {
+      "reasoning": "The comment expresses frustration and uses a common political trope ('Thanks Obama') to blame a specific figure for perceived injustice. While it is cynical and uses informal language ('screwed'), it does not contain hate speech, personal attacks, or harassment directed at individuals in a way that would typically be classified as toxic in a moderation context. It is a common expression of political grievance.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 585192,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Good question. An Indian maiden or chief? How about a Mexican costume - China Poblana clad dancer, mariachi or bullfighter? Chinese with a rice hat and fumanchu beard? Japanese Geisha with white face? \nCertainly we Americans - our ancestors - have seriously mistreated more than just blacks.",
+    "result": {
+      "reasoning": "The comment lists various cultural stereotypes and costumes in a provocative manner, seemingly to highlight historical mistreatment of multiple groups. While the tone is confrontational and uses potentially offensive tropes, the intent appears to be a critique of cultural appropriation or historical insensitivity rather than a direct attack on an individual or group. It is borderline, but leans towards 'Not Toxic' as it functions as a rhetorical argument about historical context.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5618857,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Sure you will find your peace.  Blow yourself up, get 72 virgins; you won't care where you're buried. Just be sure to kill innocent women and children, like a good and true muslim, for extra special afterlife accommodation.",
+    "result": {
+      "reasoning": "The comment uses extreme sarcasm and hate speech to promote harmful stereotypes and incite violence. It explicitly encourages terrorism and mass murder, targeting a specific religious group with dehumanizing language. This is a clear example of very toxic content.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 5664336,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "$84 million on Viagra and Cialis, $8 miilion on Transgender according to a Rand Corporation study conducted in 2016.",
+    "result": {
+      "reasoning": "The comment presents statistical data from a specific study to make a comparison. While the comparison may be intended to provoke or highlight a political viewpoint, the language used is neutral, factual in its presentation, and does not contain insults, slurs, or aggressive attacks. Therefore, it is classified as not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 588873,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "American lefties are NOT welcome here. Stay where you are. Are you listening Snoop dog?",
+    "result": {
+      "reasoning": "The comment uses exclusionary language ('NOT welcome here') and targets a specific political group and a public figure. While it is aggressive and hostile in tone, it does not contain slurs, threats of violence, or severe harassment, placing it in the 'Toxic' category rather than 'Very Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 949439,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Eric, your \"opinion\" of me has absolutely no importance in my life. I am  a well liked and respected person from my family, friends and co-workers. As to your statement, let's look at a different scenario.  A black man is passing through a predominately white neighborhood and is accosted. He is insulted and his car is struck, in fact someone punctures his tires. He, in your mind is at fault for not just \"going around\" the neighborhood? He is further at fault if he confronts those who have assaulted his property?   How about a young lady wearing very revealing clothes and goes into a dive bar. Is it her fault for not just \"going around?\" How about if she resist the unwanted advances, is she further at fault for not just shutting up and taking whatever is dished out to her? Your mind set, your hatred towards all who have different opinions then you do is very revealing Eric, you blame the victim if those who attack see the world through the same narrow blinders you do. Pitiful really.",
+    "result": {
+      "reasoning": "The comment is confrontational and uses strong, critical language ('pitiful', 'hatred', 'narrow blinders') to attack the interlocutor's character and mindset. While it employs aggressive rhetoric and personal jabs, it is framed as a rebuttal to a perceived moral failing in the other person's argument. It does not contain slurs, threats, or hate speech, but the tone is highly disrespectful and intended to belittle the recipient. It falls into the 'Toxic' category due to its hostile and dismissive nature.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5123311,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Why can't the public vote on these expenditures? None in Bryan's list were crisis decisions that couldn't wait for the next general election to decide? It would eliminate the suspicion that the commissioners were catering to special interests or cutting deals. Why can't we have democracy? Is the public really stupid enough to buy any of the above scams?",
+    "result": {
+      "reasoning": "The comment expresses frustration and skepticism regarding local government spending. While it uses strong language like 'scams' and questions the intelligence of the public, it is primarily a critique of political processes and transparency rather than a personal attack or hate speech. The tone is aggressive and cynical, but it remains within the realm of political discourse.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5514190,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Waste of time and money. Time we moved on.",
+    "result": {
+      "reasoning": "The comment expresses a negative opinion about a project or situation, labeling it a 'waste of time and money.' While it is critical and dismissive, it does not contain personal attacks, hate speech, or harassment. It reflects a common form of critical feedback in public discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5424039,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "At this rate the only guy eligible to replace an impeached and jailed Trump may well be Kiefer Sutherland",
+    "result": {
+      "reasoning": "The comment uses political hyperbole and sarcasm to express a viewpoint about a public figure. While it mentions controversial topics like impeachment and imprisonment, it does not use slurs, hate speech, or direct personal attacks intended to harass. It is a form of political commentary that falls within the realm of public discourse.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 6069873,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I don't much like your statements either Bill and I'm as white as you can get.    There is no historical equivalency between the death and damage to black Americans and white Americans in terms of racial discrimination.",
+    "result": {
+      "reasoning": "The comment expresses a disagreement with a specific individual's viewpoint and provides a historical argument regarding racial discrimination. The tone is firm and direct but does not employ insults, slurs, threats, or aggressive language. It is a civil contribution to a debate on a sensitive topic.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5160101,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Apparently, Karim Cheurfi, the guy who attack the police in Paris was a French national but they don't mention his or his family's country of origin.\n\nReports say police are also looking for a potential second suspect who was identified as Youssouf El Osri. \n\nAnd one article says the \"Islamic State claimed responsibility for the Champs Elysees shooting hours after the attack, in a statement identifying the attacker as \u201cAbu Yousif the Belgian\u201d.\n\nThe attack seems to be another Muslim terrorist attack.\n\nBut why do followers of Islam want to attack people in France? Where do followers of Islam get the idea they must attack and kill non Muslims?",
+    "result": {
+      "reasoning": "The comment discusses sensitive geopolitical and religious topics. While it uses generalizations about followers of Islam and links them to terrorism, it frames these points as questions and observations regarding news reports. It does not use slurs, direct threats, or dehumanizing language, though it borders on promoting prejudice. It is categorized as 'Toxic' due to the potential for inciting hostility toward a religious group, but it stops short of 'Very Toxic' as it maintains a pseudo-analytical tone.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5137455,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Let's see:  Did Clinton dream about having sex with underage girls? Nope. Did he walk in unannounced on naked teenage girls in their dressing rooms? Nope. Did he repeatedly walk unannounced into the dressing rooms of adult beauty pageant attendees? Nope. Did he brag about sexually assaulting women and \"pussy grabbing?\"  Nope. \nDid he routinely try to force himself on women? Nope. Did he rape his wife? Nope. \nHave he and his wife been routinely demonized for the past 30+ years while Republican pedophiles, rapists, sexual abusers and a variety of hypocritical conservative perverts got away scot free?  Oh yes.",
+    "result": {
+      "reasoning": "The comment uses a series of rhetorical questions to contrast the behavior of a political figure with allegations against others. While the tone is highly partisan, accusatory, and uses inflammatory language like 'pedophiles' and 'perverts' to describe political opponents, it functions as a critique of perceived hypocrisy rather than a direct attack intended to harass an individual user. It is aggressive and biased, but falls into the category of heated political discourse.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 680030,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"immiserate\": transitive verb, meaning to make miserable.\n\nDarn those Chinese and their inscrutable justice system! Imagine making accused spies feel miserable. You'd never see America or Canada doing that.",
+    "result": {
+      "reasoning": "The comment uses sarcasm and irony to critique the justice systems of China, the US, and Canada. While it employs a nationalistic framing and sarcastic tone, it does not contain hate speech, slurs, or direct threats. The intent is political commentary rather than personal harassment, though the sarcastic tone could be perceived as disrespectful by some.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 5167655,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Many of the people who opposed Lincoln supported slavery. Many -- not all -- of the people who support Trump also support racism, homophobia, and male supremacy.",
+    "result": {
+      "reasoning": "The comment makes a broad generalization about a group of people based on their political affiliation, associating them with negative traits like racism and homophobia. While it uses a qualifying phrase ('not all'), the comparison is provocative and likely to be perceived as disrespectful or inflammatory by those who support the mentioned political figure. It does not contain slurs or direct threats, but it is inherently divisive and judgmental.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5849099,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "BS is a polite eurocentric diplomatic way of saying the ANC is lying obfuscating and deceiving the people. Everyone by now also knows that they are cheating and stealing the people into abject irreversible poverty. So venal are they that they murder one another for a place at the feeding trough. They feel zero for the people and have performed so badly in government that they have ruined the prospects of \"a better life for all\".\nNo education no health care no policing no services no hope. Just the sluring burping crunching farting  procreating squealing sounds of a voracious parasite draining the life from its host. Do not think you can talk this creature out of its evil ways\nThe only hope is to rip it off and throw it in a bottle of formalin so that it can be studied to prevent reoccurrance\nLitigate the racist criminal ANC out of existence. Vote them out or die!",
+    "result": {
+      "reasoning": "The comment uses dehumanizing metaphors, comparing a political party to a 'voracious parasite' and 'creature'. It employs aggressive, inflammatory language and concludes with a call to action that includes the phrase 'die', which borders on inciting violence or extreme hostility. While it addresses political grievances, the tone is highly vitriolic and disrespectful, fitting the criteria for 'Very Toxic'.",
+      "toxicity_score": 0.92,
+      "error": false
+    }
+  },
+  {
+    "id": 5621222,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Wasn't too long ago respectfully VRJ, one of the TV stations here in Denver had a top shelf employee caught shopping for sex with saplings...his career was certainly over with! As far as the program, it was great. Jefferson County and some law enforcement agencies run online stings all the time going after the shorteyes. Publish them as all those arrested regardless of the crime are public record, this being one that most view as a very serious. I don't care for \"John's TV\", consenting adults and prostitutes, but when it involves kids, I hope they get burned.",
+    "result": {
+      "reasoning": "The comment discusses a sensitive and serious topic (child exploitation) with strong moral condemnation. While the language is blunt and expresses a desire for severe consequences for offenders, it does not target individuals with harassment, hate speech, or abusive language. The tone is serious and focused on public safety and accountability rather than being toxic or disrespectful toward other participants in the discussion.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 947899,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Do you think that Brooks' piece was uncivil? I don't.",
+    "result": {
+      "reasoning": "The comment is a neutral, inquisitive statement asking for an opinion on a specific piece of writing. It expresses a personal viewpoint without using aggressive, insulting, or inflammatory language. The intent is to initiate a civil discussion.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 6032730,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "There's no excuse for what NK did to this young man. It cannot and should not go unanswered.",
+    "result": {
+      "reasoning": "The comment expresses a strong moral stance regarding a political or human rights issue. While it uses firm language, it does not employ insults, hate speech, or harassment. It is a critique of actions rather than an attack on individuals or groups in a toxic manner.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 469329,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "why is he still alive?",
+    "result": {
+      "reasoning": "The comment expresses a desire for someone's death, which constitutes a severe personal attack and a violation of safety guidelines regarding harassment and inciting harm. The intent is clearly malicious and aggressive, making it highly toxic.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 5981279,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "We will send wave after wave of American soldiers to storm the beaches of North Korea. We will kill until no North Korean remains standing. We will burn their cities and desecrate the graves of their ancestors. To war!",
+    "result": {
+      "reasoning": "The comment contains explicit threats of genocide, mass violence, and desecration. It uses aggressive, dehumanizing language and promotes war crimes, which constitutes a severe violation of safety standards and is highly toxic.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 5987079,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Outsider:  It's tough to rewrite history, but I'll give you credit for trying.  The Southern economy was premised on slavery and the leaders perceived, probably correctly, that the end of slavery would cause a tremendous upheavel in Southern life...both culturally and economically.  Those leaders also perceived (again, likely very correctly) that, with the election fo Abraham Lincoln and the ever-growing power of the Abolitionist movement, slavery in the U.S. was coming to an end....and likely in the near future.  Rather than seek to negotiate as favorable a transition as possible, likely including compensation for emancipated slaves, the South chose to secede.  It's no surprise that most the young men in the South chose to support secession. They were raised in the South and slavery was part of the values system of their lives.  ....and, yes, those damn Yankees were going to end slavery.  Gary Crum",
+    "result": {
+      "reasoning": "The comment presents a historical analysis of the American Civil War and the motivations behind Southern secession. While it touches on sensitive and controversial topics like slavery and regional conflict, the tone is analytical, objective, and academic rather than inflammatory or abusive. The use of the phrase 'those damn Yankees' is a colloquialism reflecting the historical perspective of the people being discussed, rather than a direct attack on the reader or other participants. The comment does not contain hate speech, personal attacks, or harassment.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 6288045,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Alaska is now second in the nation for crime. Only New Mexico is worse. A dreadful statistic for a spectacular state.",
+    "result": {
+      "reasoning": "The comment presents statistical information regarding crime rates in a neutral and objective manner. It expresses a negative sentiment about the statistics themselves, but does not attack individuals, groups, or use inflammatory language. The tone is informative and concerned rather than aggressive or disrespectful.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 724755,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Nice try. Failed",
+    "result": {
+      "reasoning": "The comment is dismissive and condescending, but it lacks profanity, hate speech, or severe aggression. It is rude but falls into a mild category of negativity.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 387904,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Well you had one blm supporter,  call that Dallas sniper a martyr, kinda makes you wonder who's bent here ,\nAs far as I'm concerned All lives matter, \nThis individual was suicidal, \nMental health services has been going down hill for decades, that in itself is sad for the entire United States ,",
+    "result": {
+      "reasoning": "The comment expresses a controversial political opinion and criticizes a specific group's rhetoric. While it uses provocative language and challenges the perspective of others, it does not employ slurs, direct threats, or dehumanizing attacks. The tone is argumentative but remains within the bounds of political discourse, focusing on societal issues like mental health. It is unlikely to be perceived as highly toxic by most raters.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 518474,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I can't wait for a panel of women to post a political ad announcing that they were raped by tRump.  The American people don't even know half of the battery and rapes that tRump has committed.  He's like a damn juvenile say, \"Bill Clinton said far worse.\"  Saying and doing is two different things.  tRump even licks his lips when he's taking about his daughter, Ivanka.",
+    "result": {
+      "reasoning": "The comment uses aggressive, inflammatory language and makes serious, unverified allegations against a public figure. It employs derogatory nicknames and sexually suggestive accusations, which contributes to a hostile and disrespectful tone. While it addresses political discourse, the manner of expression is highly confrontational and likely to be perceived as toxic by a significant portion of readers.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 1071911,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Do you sincerely think you know anything about me? What a stupid response/question.",
+    "result": {
+      "reasoning": "The comment uses a condescending tone and explicitly labels the other person's input as 'stupid'. This is a personal attack intended to belittle the interlocutor, which qualifies as disrespectful and rude behavior, fitting the definition of 'Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 1075641,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The Globalists start with these phony surveys. The money is going to support the debts. Like Ontario, Canada has overspent. The price of oil is down and we pay the highest gas prices in North America. The debt trap has been sprung. These carbon taxes are interest payments on world bank debt.",
+    "result": {
+      "reasoning": "The comment expresses strong political and economic grievances, utilizing conspiratorial language such as 'Globalists' and 'debt trap.' While the tone is cynical and critical of government policy, it does not contain direct personal attacks, hate speech, or harassment. It falls under the category of heated political discourse rather than toxic behavior.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5498230,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Rich Mole\n\nThe interesting shift is in the concept of rote learning. While Asians are accused of doing it now, that was the way western kids learnt subjects decades ago. It didn't stop creativity, or scientists like Edison, Einstein, Bohr, etc.\n\nFocussing on humanities and ignoring the sciences is what led to the Middle East and Asia being conquered by Europe.",
+    "result": {
+      "reasoning": "The comment discusses historical and educational trends. While it makes broad generalizations about cultures and regions, it does not use slurs, hate speech, or aggressive personal attacks. The tone is analytical rather than inflammatory, and it does not appear intended to harass or silence others.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5524637,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "The voter will not forget this outrage.",
+    "result": {
+      "reasoning": "The comment expresses strong political disapproval and uses the word 'outrage' to describe a situation. While it is critical and assertive, it does not contain insults, hate speech, or personal attacks. It is a standard expression of political sentiment.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 317581,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Doesn't said owner also own a blight property in the center of Fairbanks and doesn't said owner owe several years of back property taxes on both? This is how we could force said blights to be cleaned up.",
+    "result": {
+      "reasoning": "The comment is critical and accusatory regarding a property owner's financial and maintenance history, but it remains focused on public policy and civic accountability rather than using slurs, personal attacks, or harassment. The tone is inquisitive and argumentative but not abusive.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5051318,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "But what about all 'dem PEDOPHILES?\" \nYes, it is a joking matter, quite funny.  When God called you to be Catholic, did he suggest you also try out Christianity?  By the way, Finn is a convicted criminal.",
+    "result": {
+      "reasoning": "The comment uses inflammatory language regarding sensitive topics like pedophilia, employs sarcasm to mock religious identity, and makes a personal attack by labeling an individual a convicted criminal. The tone is aggressive, dismissive, and intended to provoke or demean the recipient, which qualifies as toxic behavior.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5314987,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "His kids were with him at that time the cops pulled him over for drunk driving. His boy was filmed saying his FADDAH always drunk. Real immature Filipino. Just like that other Japanese councilman who fled the scene of an accident with a parked car. Had to get home to take advantage of a technicality that the cops can't force a breath test because he was already home. Voters kicked him out. Funny the Filipinos in Kalihi didn't do that. They are genetically corrupt.",
+    "result": {
+      "reasoning": "The comment contains hate speech by making broad, derogatory generalizations about ethnic groups (Filipinos and Japanese), specifically using the phrase 'genetically corrupt' to attack Filipinos. This constitutes dehumanizing language and promotes racial prejudice, which is highly toxic.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 5909924,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I agree with most of that. However, I have seen my gay friends go along to get along. Laugh at jokes and statements they find hurtful just so they can \"fit in\". I know the pain they feel because of it, especially when it comes from someone they considered to be a friend. But you are correct, I do not know the dynamic of any groups of friends other than my own, and I would never make jokes about my friends that I knew could be hurtful to them.",
+    "result": {
+      "reasoning": "The comment is respectful, empathetic, and contributes constructively to a discussion about social dynamics and personal experiences. It acknowledges the perspective of others while sharing a personal viewpoint without aggression, insults, or hateful language.",
+      "toxicity_score": 0.05,
+      "error": false
+    }
+  },
+  {
+    "id": 5969658,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "In fact, it's true that gay Americans make more than straights do, and most aren't religious.   Look it up.\nI dispute your request to censor people on this forum who simply tell the truth.   We should have none of that here.",
+    "result": {
+      "reasoning": "The comment presents statistical claims and expresses a personal opinion regarding forum moderation policies. While the tone is assertive and slightly confrontational, it does not employ slurs, hate speech, or personal attacks. It frames the argument as a defense of free speech rather than an attempt to harass or demean others. Therefore, it is classified as not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 901062,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Both the left and right wing are fracturing between (a) the elitist establishment who have captured party machinery and the media, and (b) their core constituencies (voters, grassroots members).\n\nBigshots in the Repug party thought they could have the minion-candidate of their choice, but the constituencies nominated Trump.  Key parts of Killary's core constituency flipped and gave Trump the election.  Trump has benefitted from the same fracture on each side of the political spectrum.\n\nThe establishment is terrified that the core constituencies are waking up to see that the real struggle is not between left and right (where civilized people have been managing to get along for centuries), but between the 'Grand Insidership' and everyone else.",
+    "result": {
+      "reasoning": "The comment uses politically charged and derogatory nicknames like 'Repug' and 'Killary', which indicates a disrespectful tone. However, the core of the message is an analytical observation about political polarization and populist movements. While the language is biased and inflammatory, it does not constitute a direct attack, harassment, or hate speech against individuals or groups in a way that would typically shut down a discussion. It falls into the category of aggressive political commentary.",
+      "toxicity_score": 0.45,
+      "error": false
+    }
+  },
+  {
+    "id": 5830848,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Canadians should keep their mouth shut about China.",
+    "result": {
+      "reasoning": "The comment uses a dismissive and aggressive tone to silence a specific group based on nationality. While it is rude and exclusionary, it does not contain slurs or threats of violence, placing it in the 'Toxic' category rather than 'Very Toxic'.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5587939,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Any group that proposed ordination of women or other forms of rebellion against legitimate Church teaching deserves excommunication.",
+    "result": {
+      "reasoning": "The comment expresses a strong theological opinion regarding church discipline. While it uses harsh language like 'rebellion' and advocates for 'excommunication,' it is framed as a statement of belief about institutional policy rather than a direct personal attack or hate speech against individuals. It is a controversial viewpoint but falls within the realm of religious debate.",
+      "toxicity_score": 0.35,
+      "error": false
+    }
+  },
+  {
+    "id": 6305427,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Right, right. I need to stay on the topic of mass extermination of cats by running them over, poisoning, gassing, shooting them among others, that the po-violent, pro-Trump brownshirts on here advocate.",
+    "result": {
+      "reasoning": "The comment uses highly inflammatory and politically charged language, specifically the term 'brownshirts' to label others, and describes graphic violence. While it frames these descriptions as criticisms of others' views, the aggressive tone and use of dehumanizing political labels contribute to a toxic environment.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 473951,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Mark baggage is a piece of shit he did nothing for Alaska and nor will he again",
+    "result": {
+      "reasoning": "The comment uses profanity ('piece of shit') to insult a public figure and expresses a strong negative opinion about their political performance. While it is aggressive and disrespectful, it focuses on political criticism rather than hate speech or harassment of a private individual, placing it in the 'Toxic' category.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5030777,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Indians want the money put in their pockets with no question asked. Indians want money to look after their own children .Indians  are too greedy and narcissistic to be trusted.",
+    "result": {
+      "reasoning": "The comment makes broad, negative generalizations about an entire ethnic group, labeling them as 'greedy' and 'narcissistic' and claiming they cannot be trusted. This constitutes hate speech and promotes harmful stereotypes, which is highly disrespectful and aggressive.",
+      "toxicity_score": 0.95,
+      "error": false
+    }
+  },
+  {
+    "id": 5424411,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Well, if you ever see the \"far-left\" meeting somewhere to plot an organized bun fight against the 'right' please let the rest of us know. Otherwise you might like to respect the different viewpoints of your family, friends and neighbours.",
+    "result": {
+      "reasoning": "The comment uses a slightly sarcastic and condescending tone to challenge the user's perception of political conflict. While it is dismissive and critical of the user's viewpoint, it does not employ hate speech, slurs, or aggressive threats. It encourages civil discourse by suggesting respect for others, which mitigates the overall toxicity.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 363139,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Alaska Airlines #100 on Monday, November 13, 2006 from Anchorage to Portland. He was sitting in seat B-2.",
+    "result": {
+      "reasoning": "The comment is purely factual and descriptive, providing specific details about a flight. It contains no insults, aggressive language, or inflammatory content. It is entirely neutral.",
+      "toxicity_score": 0.0,
+      "error": false
+    }
+  },
+  {
+    "id": 611010,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Cardinal Burke is not following the gospel. He sees no reason for mercy or understanding, only rules applied strictly with no concern for the person. That is not the way Christ did it: choosing to eat with sinners, etc.",
+    "result": {
+      "reasoning": "The comment expresses a strong theological and personal critique of a public figure's approach to religious doctrine. While it is critical and accusatory regarding the subject's interpretation of faith, it does not use slurs, threats, or dehumanizing language. It remains within the realm of civil, albeit sharp, discourse regarding religious leadership and behavior.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5818982,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Rape= irregular sexual relations....coming soon!",
+    "result": {
+      "reasoning": "The comment trivializes a violent crime by redefining it as 'irregular sexual relations' and uses a threatening tone by adding 'coming soon'. This is highly offensive, promotes harm, and is clearly intended to harass or shock, falling under the 'Very Toxic' category.",
+      "toxicity_score": 0.98,
+      "error": false
+    }
+  },
+  {
+    "id": 5916304,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "It is not yet a crime in the United States of America to disagree with a climate scientist, or an energy corporation, or any two people who donate too much money to the political opponents of the Democrats.  \n\nThe thought police have not yet taken over the country.\n\nBeing 'politically incorrect' is not yet a crime.\n\nNote the repetitive use of the word 'yet' in those statements.",
+    "result": {
+      "reasoning": "The comment expresses a political opinion using hyperbolic language like 'thought police' and repetitive phrasing to emphasize a perceived threat to free speech. While it is confrontational and skeptical of climate science and political influence, it does not contain slurs, direct threats, or targeted harassment. It falls under the category of aggressive political discourse rather than toxic abuse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 6120050,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I guess you don't understand how studies of conditions not in a laboratory work? Do scientists who studied the after effects of the atomic bomb on Hiroshima bear responsibility for the dropping of the bomb?",
+    "result": {
+      "reasoning": "The comment uses a rhetorical question to challenge the interlocutor's understanding, which is slightly condescending but not inherently abusive. The second part of the comment uses an analogy to illustrate a point about scientific responsibility. While the tone is argumentative and dismissive, it does not cross into harassment, hate speech, or severe toxicity.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 5614361,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Wrong. If a government official preaches about Christ s/he demonstrates a prejudice in favor of Christianity in violation of the Establishment Clause.\n\nOf course government officials do this sort of thing all the time because American government is suffused with Christian religiosity.\n\nYou wrote:\n\n<<I didn't say the country was Christian.>>\n\nYou invoked the same points routinely deployed by those who claim the United States is \"a Christian nation.\"",
+    "result": {
+      "reasoning": "The comment is a direct, argumentative critique of a political and legal viewpoint. While it is assertive and challenges the interlocutor's position, it does not use slurs, personal attacks, or aggressive language. It focuses on the interpretation of the Establishment Clause and the nature of American government, which constitutes a civil, albeit firm, debate.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5149652,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Eid holidays will be coming soon and Easter will be gone.  The collateral damage will be on women and homosexuals.",
+    "result": {
+      "reasoning": "The comment makes a sweeping, inflammatory generalization about religious and social groups, implying that specific holidays lead to 'collateral damage' against women and homosexuals. This language is alarmist, promotes negative stereotypes, and is likely to incite hostility or offense, fitting the criteria for a toxic comment.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5206700,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "I really don't know  even if President Donald Trump wins another term in 2020, the soar grapes liberal Democrats will grow up by than.  They continue to obstruct President Trump nominees to run his administration; and anything to do with President Trump's agenda for \"Americans only.\"\n   Hillary Clinton, the Democrats messiah, had proposed a whopping tax increase on every American so the Democrats can spend more on ilegal immigrants; pay for refuges from Muslim countries giving each of them $1700,00 verses $1200.00 an American war veteran receive today. She would undoubtedly increase the food stamps so some lazy Americans can pay for their illegal drug usage or go to the casino to splurge hard working tax payers money.  Folks that is the doctrine of the liberal Democratic party.\n     The Liberal Democrats hate President Donald Trump of taking care of Americans only; hire Americans only; keep jobs in the United States for American only and not shift them to a foreign country",
+    "result": {
+      "reasoning": "The comment uses inflammatory and divisive language, employing generalizations and stereotypes about political opponents, such as labeling them 'lazy' and accusing them of funding illegal drug use. It also uses xenophobic tropes regarding immigrants and refugees. While it expresses a political viewpoint, the aggressive tone and derogatory characterizations of groups of people make it toxic.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5372699,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "@Ian R McNee Zille's tweets are demonstrably racist. Where a \"racist\" is defined as someone who believes (1) That \"race\" exists as a \"scientific concept\"not a \"social construct \" referring to language , culture & superficial appearances. and (2) That some \"races\"  are  superior to others? So does Zille qualify as a \"racist\" according to these criteria?Let us try a \"litmus test\".In Matric in a Catholic School in 1970 a German nun who was teaching us \"History \" once said.\"Your ancestors were cannibals! They were Savages! They would have wiped each other out if White missionaries had not arrived in the nick  of time. I pointed out that they would not have \"wiped each other out\" as \"the last one would have committed suicide\", much to her disgust and to the amusement of my (black of course this was under apartheid) classmates.(but I digress) \n\nSounds familiar does it not? Zille would merely have added \"and the colonialists brought piped water, .......and of course the internet\".",
+    "result": {
+      "reasoning": "The comment engages in a critical political discussion regarding Helen Zille's views on colonialism and race. While it uses strong language and recounts a personal anecdote involving historical racial prejudice, the intent is to challenge a public figure's rhetoric rather than to harass or attack individuals. The tone is argumentative and analytical, and it does not contain slurs, threats, or dehumanizing language directed at the interlocutor. Therefore, it is classified as not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 401847,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Truth to a liberal is like salt to a slug",
+    "result": {
+      "reasoning": "The comment uses a dehumanizing metaphor ('slug') to characterize a political group. While it is dismissive and relies on partisan stereotyping, it does not contain slurs, threats, or extreme profanity. It is intended to provoke or insult, falling into the 'Toxic' category due to its disrespectful nature.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 6076555,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Fake News.  Anyone with a brain knows \"the best thing Trump could do\" is to step down and concentrate on what he is good at, golfing, chasing women and having twitter battles with celebrities.",
+    "result": {
+      "reasoning": "The comment uses dismissive language ('Fake News', 'Anyone with a brain') and employs ad hominem attacks by mocking the subject's personal habits and character. While it is disrespectful and aggressive, it falls into the category of political criticism and mockery rather than hate speech or severe harassment. It is likely to be perceived as toxic due to its insulting tone.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5076778,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Show me a Canadian Show worth watching and I will watch it.\nCanadian Crap applies to Canadian Lack of Entertainment,that is why we have Netflix and watch British,Australian,American etc shows.",
+    "result": {
+      "reasoning": "The comment expresses a strong negative opinion about Canadian media, using a derogatory acronym ('Canadian Crap') and generalizing the quality of an entire nation's entertainment industry. While the tone is dismissive, rude, and provocative, it does not contain hate speech, threats, or targeted harassment against individuals, making it 'Toxic' rather than 'Very Toxic'.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 5546263,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "In 2016, Inzoli was convicted of sexual violence against five boys between the ages of 12 and 16. \n\nWhat the article doesn't include is that Cardinal Francesco Coccopalmerio interceded on behalf of Inzoli to the then newly elected Pope Francis. Ignoring the advice of the Congregation for the Doctrine of the Faith, Francis made the decision in 2014 to return Inzoli to the priesthood. \n\nCoccopalmerio, President of the Pontifical Council for the Interpretation of Legal Texts, is known to be one of Pope Francis\u2019 closest collaborators and supporters. This same Francesco Coccopalmerio is the Cardinal who recommended to Francis that Monsignor Luigi Capozzi become a bishop. Capozzi was (allegedly) caught recently by Vatican gendarmerie hosting a cocaine-fueled homosexual orgy in the Cardinal's apartment. Coccopalmerio is on record as advocating the Church must \u201cemphasize\u201d the \u201cpositive realities\u201d that he believes are present in homosexual relationships. \n\nJoin the dots .....",
+    "result": {
+      "reasoning": "The comment presents factual claims and allegations regarding historical events and public figures within the Catholic Church. While the tone is critical and implies a connection between the individuals mentioned to suggest institutional corruption or hypocrisy, it does not use slurs, hate speech, or direct personal attacks that would qualify as toxic under standard moderation guidelines. It is an argumentative piece of political/religious commentary.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 6131949,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What you have to do when you are talking to the police dispatcher is tell them you are going to get your shotgun and if this guy breaks the door down that you are going to\"blow his head off.\"  Cops will be then there in 5 minutes or less.  Do us all a favor and make sure you do blow his head off if he breaks in.",
+    "result": {
+      "reasoning": "The comment provides advice on how to manipulate emergency services by using violent threats to ensure a faster police response. Furthermore, it explicitly encourages lethal violence ('make sure you do blow his head off'), which promotes harm and escalates a potentially dangerous situation. This is highly aggressive and violates safety standards regarding the incitement of violence.",
+      "toxicity_score": 0.92,
+      "error": false
+    }
+  },
+  {
+    "id": 983299,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "look deeper into the cuts and you will see that many worthless employees were kept, while employees that actually contributed to the operation of the ARRC were laid off......a significan amount of \"fat\" still there....",
+    "result": {
+      "reasoning": "The comment expresses strong frustration and criticism regarding corporate layoffs. While it uses the derogatory term 'worthless' to describe employees and refers to staff as 'fat', the tone is focused on organizational critique rather than targeted harassment or hate speech against protected groups. It is rude and disrespectful, but falls into the 'Toxic' category rather than 'Very Toxic' as it is a common, albeit harsh, form of workplace grievance.",
+      "toxicity_score": 0.65,
+      "error": false
+    }
+  },
+  {
+    "id": 874093,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What hypocrisy we have about American politics. We condemn the leadership of many states around the world because they are \"Muslim theocracies\" while we turn a blind eye to all the Christian prayers and bible readings by preachers and priests during the Trump inauguration as some kind of bizarre normalcy. Everyone needs to read Religion in American Politics by Frank Lambert for a little grounding in reality.",
+    "result": {
+      "reasoning": "The comment expresses a strong political opinion and critiques perceived hypocrisy in American politics. While it uses strong language like 'hypocrisy' and 'bizarre normalcy,' it does not resort to personal attacks, hate speech, or harassment. It encourages critical thinking and suggests a book for further reading, maintaining a civil, albeit argumentative, tone.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 5418413,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": ".\n\nHow much lower  can Trump sink?\n\nHe's scraping bottom now.\n\nMost recent Quinnipiac poll, on Americans' thoughts on Donald Trump: \n\n59 percent that he is not honest\n\n58 percent that he does not have good leadership skills\n\n58 percent that he does not care about average Americans\n\n64 percent that he does not share their values.\n\n54 percent that he is too friendly to Russia (3 percent think he is not friendly enough!) \n\n63 percent disapprove of his handling of the environment \n\n53 percent disapprove of the way he is handling the economy \n\n34 percent approve of his job performance \n\nhttps://poll.qu.edu/national/release-detail?ReleaseID=2462 \n\nOuch!\n\nWell, hey, he's got no where to go but up!",
+    "result": {
+      "reasoning": "The comment expresses a strong political opinion and uses critical language regarding a public figure's performance and character. While it is clearly biased and uses a mocking tone ('Ouch!', 'nowhere to go but up'), it relies on citing specific polling data to support its claims. It does not use slurs, threats, or dehumanizing language, and therefore falls within the realm of standard, albeit heated, political discourse.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 540982,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Trump: I kiss and grab women by the pussy and I can get away with it because I'm a star.\nWomen: That's exactly what he did to me.\nEagleclaw: I say Hillary said the N word and that's EXACTLY the same as accusing Trump of kissing and grabbing women by the pussy!\n\nOK dude. Take some meds. Go lie down.",
+    "result": {
+      "reasoning": "The comment uses dismissive and condescending language ('Take some meds. Go lie down.') to invalidate another user's argument. While it is rude and attempts to shut down the conversation, it does not reach the level of hate speech or severe harassment, though it is clearly intended to be disrespectful.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 1003352,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "\"This is the thinking of the Red Guards, the Khmer Rouge, book burners, the Inquisition, etc.\"\n\nI'm no longer surprised by this kind of comment.",
+    "result": {
+      "reasoning": "The comment uses historical analogies to criticize a specific viewpoint by associating it with extremist and oppressive regimes. While the tone is confrontational and accusatory, it functions as a critique of ideas rather than a direct personal attack or hate speech. It expresses frustration and disillusionment, which is common in political discourse, but does not cross the threshold into harassment or toxicity.",
+      "toxicity_score": 0.25,
+      "error": false
+    }
+  },
+  {
+    "id": 6099415,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "What is weak is you posting fake news.  CNN isn't that Commie News Network?  Of course they are not going to publicize republicans licking Putin's boots as that would be counterproductive and they just don't need to.  Republicans are currently nothing but patsies of the Russians so they are not going to upset the apple cart.",
+    "result": {
+      "reasoning": "The comment uses aggressive, politically charged, and insulting language such as 'Commie News Network', 'licking Putin's boots', and 'patsies of the Russians'. The tone is hostile and confrontational, intended to demean a specific political group and a news organization. While it expresses a strong political opinion, the use of derogatory labels and inflammatory rhetoric pushes it into the toxic category.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5560014,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "It's where the butthole is, and the Charmin factory.",
+    "result": {
+      "reasoning": "The comment uses crude, anatomical language to describe a location. While it is vulgar and potentially offensive to some, it does not target an individual with hate speech, harassment, or aggressive intent. It is categorized as 'Not Toxic' because it lacks the malicious intent required to drive someone away from a discussion, despite its lack of refinement.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 489500,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "C'mon man anybody that gets up and tells everybody they one bad ass brother has a freaking problem. And he's a mayor? Under indictment for abuse of a county credit card? And now not reporting income for land sales? This is just sad. This is just another stupid drunk big talking like he's the man. I used to have so much respect for Billy. His speech to HPU grads was awesome. Awesome. Billy you gotta put down the bottle brother.",
+    "result": {
+      "reasoning": "The comment uses derogatory language ('stupid drunk', 'big talking') and makes personal attacks against a public official. While it expresses disappointment and criticism regarding legal issues and behavior, the tone is aggressive and insulting. It falls into the 'Toxic' category due to the name-calling and disrespectful framing, though it stops short of being 'Very Toxic' as it is framed as a critique of public conduct.",
+      "toxicity_score": 0.75,
+      "error": false
+    }
+  },
+  {
+    "id": 5044198,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Would you just have him executed then?",
+    "result": {
+      "reasoning": "The comment is a direct question regarding a hypothetical scenario involving capital punishment. While the subject matter is violent, the tone is inquisitive rather than aggressive, hateful, or harassing. It does not contain insults or inflammatory language, making it not toxic.",
+      "toxicity_score": 0.15,
+      "error": false
+    }
+  },
+  {
+    "id": 545876,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "If a species wasn't introduced by human agency, directly or indirectly, it's not invasive.  Take comfort in the fact that you're consistently wrong.  See, I've studied this stuff.  You haven't even read the citations you posted hoping to bolster your specious arguments, and WON'T rise up to the challenge of defending 'em.  Because you can't.  Pitiful when I understand your arguments better'n you do.  I'm not gonna do your work for you.  Either defend your claims, or slink away all butt-hurt because you can't.  Don't care which.",
+    "result": {
+      "reasoning": "The comment employs an aggressive, condescending, and belittling tone. It attacks the interlocutor's intelligence and character rather than focusing solely on the argument, using phrases like 'consistently wrong', 'pitiful', and 'slink away all butt-hurt'. While it addresses a topic of debate, the intent is clearly to demean and provoke the other person, which constitutes toxic behavior.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  },
+  {
+    "id": 5670571,
+    "provider": "gemini",
+    "model": "models/gemini-3.1-flash-lite",
+    "technique": "cot",
+    "comment_text": "Is it Bias or is it experience ?  Not all Bears attack humans but we are fearful of them and kill innocent bears proactively. And  cops killed nearly twice as many whites as blacks in 2015. According to data compiled by The Washington Post, 50 percent of the victims of fatal police shootings were white, while 26 percent were black. \n\nBlacks are seven times more likely than people of other races to commit murder, and eight times more likely to commit robbery. When Blacks commit crimes of violence, they are nearly three times more likely than non-Blacks to use a gun, and more than twice as likely to use a knife.  Of the nearly 770,000 violent interracial crimes committed every year involving Blacks and Whites, Blacks commit 85 percent and Whites commit 15 percent.\nSo when you are fearful and so much of the violence is coming from one racial profile you can see why a cop may be quick to react unnecessarily aggressive. Bias yes, but  based on real experience and statistics.",
+    "result": {
+      "reasoning": "The comment uses statistical data to argue that racial bias in policing is a rational response to crime rates. While the comment attempts to frame its argument as a logical analysis of statistics, it promotes harmful racial stereotypes and generalizations by attributing violent behavior to a specific racial group. This type of rhetoric is often used to justify discriminatory practices and can be perceived as highly offensive and dehumanizing, which aligns with the definition of a toxic comment.",
+      "toxicity_score": 0.85,
+      "error": false
+    }
+  }
+]

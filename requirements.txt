@@ -1,3 +1,4 @@
+# Minimum required environment: Python >= 3.10
 pandas
 numpy
 scikit-learn
@@ -8,3 +9,8 @@ requests
 plotext
 matplotlib
 seaborn
+python-dotenv
+ollama
+openai
+groq
+google-genai

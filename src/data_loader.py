@@ -1,6 +1,7 @@
 import pandas as pd
 
 COLUMNS_TO_LOAD = [
+    "id",
     "comment_text",
     "target",
     "severe_toxicity",
@@ -31,14 +32,14 @@ COLUMNS_TO_LOAD = [
     "other_race_or_ethnicity"
 ]
 
-identity_cols = ["male", "female", "transgender", "other_gender", "heterosexual", "homosexual_gay_or_lesbian", "bisexual", "other_sexual_orientation", "christian", "jewish", "muslim", "hindu", "buddhist", "atheist", "other_religion", "black", "white", "asian", "latino", "other_race_or_ethnicity"]
+IDENTITY_COLS = ["male", "female", "transgender", "other_gender", "heterosexual", "homosexual_gay_or_lesbian", "bisexual", "other_sexual_orientation", "christian", "jewish", "muslim", "hindu", "buddhist", "atheist", "other_religion", "black", "white", "asian", "latino", "other_race_or_ethnicity"]
     
-toxicity_cols = ["severe_toxicity","obscene","sexual_explicit", "identity_attack","insult","threat"]
+TOXICITY_COLS = ["severe_toxicity","obscene","sexual_explicit", "identity_attack","insult","threat"]
 
 def load_data(filepath):
     df = pd.read_csv(filepath, usecols=COLUMNS_TO_LOAD).fillna(0)
     df["is_toxic"] = (df["target"] >= 0.5).astype(int)
-    df["has_identity_info"] = (df[identity_cols] > 0).any(axis=1).astype(int)
+    df["has_identity_info"] = (df[IDENTITY_COLS] > 0).any(axis=1).astype(int)
     df["comment_length"] = (df["comment_text"]).str.split().str.len()
     print("\n********** RAW DATA PREVIEW **********\n")
     print("\nFirst few rows:\n")
@@ -65,7 +66,7 @@ def load_data(filepath):
         # i create a dictionary where keys are sample names, and the value is the sample dataframe
         # for each sample i handle the edge case that there might no be enough rows to be selected for a certain sample
         # the remaining number of rows will then be sampled randomly ###
-def sample_data(df, n_samples=1000, random_seed=42):
+def sample_data(df, n_samples=200, random_seed=42):
     
     txc_idnt_sample_keys = ["txc_idnt_severe_toxicity", "txc_idnt_obscene", "txc_idnt_sexual_explicit", "txc_idnt_identity_attack","txc_idnt_insult", "txc_idnt_threat"] 
     txc_no_idnt_sample_keys = ["txc_no_idnt_severe_toxicity", "txc_no_idnt_obscene", "txc_no_idnt_sexual_explicit", "txc_no_idnt_identity_attack", "txc_no_idnt_insult", "txc_no_idnt_threat"]
@@ -80,18 +81,18 @@ def sample_data(df, n_samples=1000, random_seed=42):
     
     ## per toxicity subtype sampling
 
-    txc_n_sample = int(n_samples/4/len(toxicity_cols))
+    txc_n_sample = int(n_samples/4/len(TOXICITY_COLS))
     
     sum_1 = 0
     sum_0 = 0
 
-    for i in range(len(toxicity_cols)):
-        curr_col = toxicity_cols[i]
+    for i in range(len(TOXICITY_COLS)):
+        curr_col = TOXICITY_COLS[i]
         curr_key_1 = txc_idnt_sample_keys[i]
         curr_key_0 = txc_no_idnt_sample_keys[i]
 
-        curr_df_1 = df[(df["is_toxic"] == 1) & (df["has_identity_info"] == True) & (df[curr_col] > 0) & (~df.index.isin(selected_ids))]
-        curr_df_0 = df[(df["is_toxic"] == 1) & (df["has_identity_info"] == False) & (df[curr_col] > 0) & (~df.index.isin(selected_ids))]
+        curr_df_1 = df[(df["is_toxic"] == 1) & (df["has_identity_info"] == True) & (df[curr_col] >= 0.5) & (~df.index.isin(selected_ids))]
+        curr_df_0 = df[(df["is_toxic"] == 1) & (df["has_identity_info"] == False) & (df[curr_col] >= 0.5) & (~df.index.isin(selected_ids))]
 
         samples[curr_key_1] = curr_df_1.sample(n=min(txc_n_sample, curr_df_1.shape[0]), random_state=random_seed)
         selected_ids.update(samples[curr_key_1].index)
@@ -119,12 +120,12 @@ def sample_data(df, n_samples=1000, random_seed=42):
 
     ## per identity sampling
 
-    no_txc_n_sample = int(n_samples/4/len(identity_cols))
+    no_txc_n_sample = int(n_samples/4/len(IDENTITY_COLS))
 
     sum = 0
 
-    for i in range(len(identity_cols)):
-        curr_col = identity_cols[i]
+    for i in range(len(IDENTITY_COLS)):
+        curr_col = IDENTITY_COLS[i]
         curr_key = no_txc_idnt_sample_keys[i]
 
         curr_df = df[(df["is_toxic"] == 0) & (df["has_identity_info"] == True) & (df[curr_col] > 0) & (~df.index.isin(selected_ids))]
@@ -150,30 +151,36 @@ def sample_data(df, n_samples=1000, random_seed=42):
     sampled_df = pd.concat(samples.values(), ignore_index=True)
     sampled_df = sampled_df.sample(frac=1, random_state=random_seed).reset_index(drop=True)
 
-    return sampled_df
+    # selecting example comments to be used later in the few-shot prompt
+
+    remaining_df = df[~df['id'].isin(sampled_df['id'])]
+    examples_ids = [239626 ,239632, 59861, 59859, 239612, 239607]
+    examples_df = remaining_df[remaining_df['id'].isin(examples_ids)]
+
+    return sampled_df, examples_df
 
 def eda_stats(sampled_df):
 
     # number of comments per toxicity subtype
 
     txc_dist = {}
-    for col in toxicity_cols:
-        txc_dist[col] = ((sampled_df["is_toxic"] == 1) & (sampled_df[col] > 0)).sum()
+    for col in TOXICITY_COLS:
+        txc_dist[col] = ((sampled_df["is_toxic"] == 1) & (sampled_df[col] >= 0.5)).sum()
         
     # number of comments that have 1, 2 or 3+ toxicity subtypes
 
-    co_occ_txc = (sampled_df[sampled_df["is_toxic"] == 1][toxicity_cols] > 0).sum(axis=1)
+    co_occ_txc = (sampled_df[sampled_df["is_toxic"] == 1][TOXICITY_COLS] >= 0.5).sum(axis=1)
     co_occ_txc_grpd = pd.cut(co_occ_txc, bins=[0, 1, 2, float("inf")], labels=["1","2","3+"]).value_counts().sort_index()
     
     # number of comments per identity
 
     idnt_dist = {}
-    for col in identity_cols:
+    for col in IDENTITY_COLS:
         idnt_dist[col] = (sampled_df[col] > 0).sum()
             
     # number of comments that have 1, 2 or 3+ identity tags
 
-    co_occ_idnt = (sampled_df[sampled_df["has_identity_info"] == 1][identity_cols] > 0).sum(axis=1)
+    co_occ_idnt = (sampled_df[sampled_df["has_identity_info"] == 1][IDENTITY_COLS] > 0).sum(axis=1)
     co_occ_idnt_grpd = pd.cut(co_occ_idnt, bins=[0, 1, 2, float("inf")], labels=["1","2","3+"]).value_counts().sort_index()
     
     # stats about comments length
@@ -191,7 +198,7 @@ def print_eda_summary(n, txc_dist, co_occ_txc_grpd, idnt_dist, co_occ_idnt_grpd,
     print("\n\nToxicity Subtypes Distribution (non distinct)\n")
     print(f"| {"Toxicity Subtype":<18} | {"Count":^8} |")
     print(f"| {"-"*18:<18} | {"-"*8:^8} |")
-    for col in toxicity_cols:
+    for col in TOXICITY_COLS:
         print(f"| {col:<18} | {txc_dist[col]:^8} |")
 
     print("\n\nToxicity Subtypes Co-occurence\n")
@@ -203,7 +210,7 @@ def print_eda_summary(n, txc_dist, co_occ_txc_grpd, idnt_dist, co_occ_idnt_grpd,
     print("\n\nIdentity Tags Distribution (non distinct)\n")
     print(f"| {"Identity Tag":<25} | {"Count":^8} |")
     print(f"| {"-"*25:<25} | {"-"*8:^8} |")
-    for col in identity_cols:
+    for col in IDENTITY_COLS:
         print(f"| {col:<25} | {idnt_dist[col]:^8} |")
 
     print("\n\nIdentity Tags Co-occurence\n")
@@ -221,11 +228,12 @@ def print_eda_summary(n, txc_dist, co_occ_txc_grpd, idnt_dist, co_occ_idnt_grpd,
 def main():
     filepath = "data/train.csv"
     raw_df = load_data(filepath)
-    sampled_df = sample_data(raw_df)
+    sampled_df, examples_df = sample_data(raw_df)
     txc_dist, co_occ_txc_grpd, idnt_dist, co_occ_idnt_grpd, cmnt_summary = eda_stats(sampled_df)
     print_eda_summary(len(sampled_df), txc_dist, co_occ_txc_grpd, idnt_dist, co_occ_idnt_grpd, cmnt_summary)
 
-    sampled_df.to_csv("results/data/sampled_n_1000.csv", index=False)
+    sampled_df.to_csv("results/data/sampled_n_200.csv", index=False)
+    examples_df.to_csv("results/data/few_shot_examples.csv", index=False)
 
 if __name__ == "__main__":
     main()

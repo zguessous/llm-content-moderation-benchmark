@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 6174684,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "There is a special place in hell for people that lie to the families of our fallen heroes.  Trump jong orange also said he was going to contribute $1M (picture Dr. Evil biting his pinky) to huricane relief in Texas.  The money never got there.  There were two more huricanes after that one and no more pledges.  This guy is a buffoon.",
+    "result": {
+      "toxicity_score": 0.58,
+      "subtypes": {
+        "severe_toxicity": 0.08,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.65,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6006439,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "How much longer can our country allow a batsh*t crazy man make decisions that destroy what has made our country great. The policies, and repeal of policies, that stream out of the White House seem to be the exact opposite of what needs to be done. It's a dangerous situation, and the sooner Trump can be evicted from the White House, the sooner we can get our country back on track.\nIt's not just this proposal, but almost every proposal that comes out of the Trump administration leaves the vast majority of our country scratching their heads. WTF? How can anyone believe that Trump is doing anything good for our country?",
+    "result": {
+      "toxicity_score": 0.62,
+      "subtypes": {
+        "severe_toxicity": 0.12,
+        "obscene": 0.22,
+        "threat": 0.0,
+        "insult": 0.71,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6051282,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Leaving people alone? What?? That's like saying mind your own business. Keep your own house clean. Come on, Gary: How can people get aroused if not by vicariously peeping in my bedroom window? Better yet, into a gay man's bedroom? Never mind the suit and tie they wear to work at the bank, or that I prefer funny movies. Don't deny that the images of >>gay sex<< flood your thoughts at the mention of the word \"gay\". Dwell, dwell, dwell.\nIt's important to keep what you think I do out of the campsite.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.5,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.3,
+        "sexual_explicit": 0.7
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 850367,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Done and done.  We were told when CC was first implemented that they were developing blocking.  I don't see any reason to NOT have it since all it does is allow one to control one's own reading experience...which is far more difficult to do without the feature.  Thanks, AAJ -- you're always helpful in such practical ways!",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1008845,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Allan Ross: Because we have hate crime and human rights laws, what other forms of (suspected?) intolerance, (assumed?) hatred and (irrational, by definition) phobia does M-103 intend that Parliament address, and more importantly what kind of legal responses might the motion envisage? Censorship is surely one approach but it would become a legal circus because any new prohibitions would clearly clash with the Charter right to freedom of expression. So what does M-103 intend to achieve other than to serve as a pre-emptive vilification of all points of view that are in any way critical, even if rationally so, of Islamic ideology and/or opinions and analyses that challenge overly broad interpretations of racism? Is moralistic pigeonholing the appropriate role of Parliament in a free and democratic society? Personally, I think not.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 626457,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Madison knew that the North would outnumber the South, despite there being more than half a million slaves in the South who were their economic vitality, but could not vote. His proposition for the Electoral College included the \u201cthree-fifths compromise,\u201d where black people could be counted as three-fifths of a person, instead of a whole. This clause garnered the state 12 out of 91 electoral votes, more than a quarter of what a president needed to win.\n\n\u201cNone of this is about slaves voting,\u201d said Finkelman, who wrote a paper on the origins of the Electoral College for a symposium after Gore lost. \u201cThe debates are in part about political power and also the fundamental immorality of counting slaves for the purpose of giving political power to the master class.\u201d\n\nHe said the Electoral College\u2019s three-fifths clause enabled Thomas Jefferson, who owned more than a hundred slaves, to beat out in 1800 John Adams, who was opposed to slavery, since the South had a stronghold. PBS2",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5852495,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Why so Eurocentric?   Maybe because we are the ones that got rid of slavery?   Think about it.   Slavery STILL happens in Africa.   Maybe because we came up with things like the Declaration.   Maybe because we were more technologically advanced than anybody else at the time.   Did you not understand any thing that Goldberg wrote.   The idiots that protesting Columbus are a product of their environment.   I wonder how many of these people would truly survive in the environment that they are protesting for?  Also, have you studied what some of  those indians were doing to each other?   Do you think we should be practicing human sacrifice?",
+    "result": {
+      "toxicity_score": 0.58,
+      "subtypes": {
+        "severe_toxicity": 0.12,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.68,
+        "identity_attack": 0.15,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 870944,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "People don't start smoking at 18, 19 or 21.  Not sure how this stops them at all. Just will add to Black Market of tobacco.  Data from jurisdictions that have done this is premature and may just be related to the general trend of less smoking every where.  Smoking is going away on it's own, these types of laws don't stop people from smoking.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 889651,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Since you have provided zero citations and zero facts, your standing to offer commentary appears to be zero.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 490418,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "All Republicans have for black people are bullets. They have given Democrats a pretty low bar to get over to look less racist than Republicans.",
+    "result": {
+      "toxicity_score": 0.84,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.02,
+        "threat": 0.01,
+        "insult": 0.78,
+        "identity_attack": 0.62,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5993726,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Does she have any idea what her husband, a malignant narcissist and mentally defective sociopath, does on a continuing basis? The entire family is a joke and no one's laughing.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.85,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5225769,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The program has been extremely popular among rich Chinese, who call it the \u201cgolden visa\u201d and are eager to get their families \u2014 and their wealth \u2014 out of the country. The fact that some use it to move their money out illegally, however, has made the program unpopular with the Chinese authorities.\n.\nThe program was launched with the goal of securing investment and creating jobs. But instead, in recent years, many real estate developers have used the program as a source of cheap financing by using foreign investors, especially from China, for flashy projects in Manhattan and other city centers.\n.\nA Government Accountability Office report in 2015 found the EB-5 program carried a high risk of fraud, was rife with counterfeit documentation and had \u201cno reliable method to verify the source of the funds of petitioners.\u201d",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.07,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6229383,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I saw + on the floating pig! \nWill tranph interpret that as Roger Waters being against the Red Cross?",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5940823,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "No, just a remote island with no means of evacuation or safe shelter while a deadly storm barreled down on them threatening to kill everyone.\n\nDid you attend the women's conference dear?  Justin was well prepared it.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.1,
+        "insult": 0.02,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 823019,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "This is the practice of stalinism which is the foundation of the communist Party of China, not an ancient barbaric cultural practice. Those who deviate from  likemindedness are shamed, humiliated, denied a living, reduced to poverty, treated like criminals, imprisoned, and are eventually killed off.  The same treatment is extended to their bloodline.  The hallmark of totalitarianism.  A shame on the greatness of the 6000 year old civilization.\n\nIt is appalling that Canada is covertly supporting this crime against humanity in developing their extradition treaty with the CCP.\n\nStop harassing citizens for not being communists, now!\n\n Free Nobel Peace Prize winner Liu Xiaobo, now!",
+    "result": {
+      "toxicity_score": 0.3,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5525946,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "did he really shoot anyone?\n\nany chance you could come to the comments section a little better informed?",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5804112,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You do realize if the scum in the alt-right got their way, they would genocide millions, possibly billions?\n\n\nWhy so much hate for liberals? Those are not the people talking about shoving the \"wrong\" type of people into ovens. \n\n\nOr are you on the side of the Nazis?",
+    "result": {
+      "toxicity_score": 0.84,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.05,
+        "threat": 0.02,
+        "insult": 0.78,
+        "identity_attack": 0.62,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5261337,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Crime and the prevention of crime are huge money-spinners for everyone except the victims. Follow the money. It's always about the money.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5608106,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I'm honestly unrepentant on this: Sex, attempted sex, sexual assault against your child and you die. No mercy, nothing less. Death. Male or Female abusers put to death. That is it.\n\nWe seriously need the death penalty back. Without it, we've become idiots.",
+    "result": {
+      "toxicity_score": 0.94,
+      "subtypes": {
+        "severe_toxicity": 0.88,
+        "obscene": 0.15,
+        "threat": 0.82,
+        "insult": 0.57,
+        "identity_attack": 0.09,
+        "sexual_explicit": 0.12
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5341545,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Trump is a mentally ill, narcissistic, delusional, sick, perverted, nasty, decrepid 70 year-old man who was so desperate to become relevant, he ran for the presidency, supported by obscure losers even more desperate for relevancy.  \n\nTogether they have taken being incredibly stupid to new heights. \n\nNot what they were going for but because they're stupid, they don't get it.  They prefer ignorance; it's bliss doncha know. \n\nHopefully, this will be their last hurrah before they die out.",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.92,
+        "identity_attack": 0.07,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 420447,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "They can't if they earn it in Alaska.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 355002,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Clayton I and many Alaskans don't give a damn what they do in other States.  Please become one of US,or move out.",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5764654,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "They are part of his base and self-identified as such - just read Duke's comments.  Obviously, they are not the sum of his base and it is disingenuous on your part to try to say that was my position. You set up a straw horse argument here. \n\nThe real question you try to muddy here is why did Trump not come down hard on one of the most visible and horrifying manifestations of white suprematism in decades?",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5026863,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Roy Anthony, Scary Alaskan liberal, I am a good American! I feel it is in our nation's interest for all oil states like Alaska to produce more oil so Americans like me and you don't have to buy it from the people in the Middle East and make them rich because it has been reported that many fanatical muslims use this money to kill Americans because they hate us!\nDo you believe this? Many Americans do. I am a good American, are you a good American? If so can we agree to help increase oil and gas production and have more jobs and more money. This is good for all Alaskans and other Americans, right?",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.0,
+        "threat": 0.1,
+        "insult": 0.5,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1056522,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Mr. Trump continues his public descent into madness.  He's a psychotic.  Obviously.\n\nNow it's Mr. Obama who is his enemy, along with the press and the United States intelligence apparatus.  Sooner or later, the only people left on his side will be the Ku Klux Klan and Steve Bannon.\n\nThis will not end well for the United States",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5258250,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Africans don't seem to do SHAME too well, do they? Everywhere you look in Africa, nepotism thrives.\n\nPeoples who don't respect themselves are not honorable.",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.78,
+        "identity_attack": 0.92,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 582180,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Slap the bitch in jail! And also the derelict who gave her the licenses to adopt children!",
+    "result": {
+      "toxicity_score": 0.95,
+      "subtypes": {
+        "severe_toxicity": 0.9,
+        "obscene": 0.6,
+        "threat": 0.85,
+        "insult": 0.9,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 322182,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Oh, you're a riot. That question is a,very stupid question. Japan was not going to surrender. The bomb stopped the war and saved lives.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 582382,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Edward invited me to Barrow and I ended up staying there  for 12 years. He was an extraordinary man in so many ways and always pleasant to be around. He guided me and others through some difficult times with his wisdom and desire to see us all succeed. That was Edward. Quyanaq my great friend. Tinukpala",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 512409,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Sounds like APD exercised amazing constraint, in order to save this man's life and to protect surrounding neighbors. Had we been in Cleveland, this man would be dead long ago. Or maybe perhaps it's because he was white? Food for thought people...",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5754942,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "BURN THIS DOG RAPING WHITE NIGER ALIVE\nTIME for THESE NIGER LOVERS to DIE for THEIR CAUSE\nKILL THEM ALL REAL SLOW",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 1.0,
+        "obscene": 1.0,
+        "threat": 1.0,
+        "insult": 1.0,
+        "identity_attack": 1.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 884239,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "It would be interesting to know how many of the useful idiots donning \u201cpussy hats\u201d at Saturday's massive \u201cWomen's March on Washington\u201d had any idea\u2014or even cared to know\u2014who the principal organizers of the event were. The answer is undoubtedly close to zero. Linda Sarsour was one of the principal organizers, Sarsour was a featured speaker at the annual convention of the Islamic Society of North America, a Muslim Brotherhood front group that promotes Sharia Law and Islamic supremacism. The Brotherhood, it should be noted, is the parent group of both Hamas and Al-Qaeda.\nYou bet it's far from over.",
+    "result": {
+      "toxicity_score": 0.75,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.5,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5830157,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Excellent work Amabhungane! You see....the south africans are not stupid. Every move these thieves make is watched and worked out. Pity our Police/Justice cant keep up.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 295955,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "double locked? with does that mean? these nasty dogs gotta go.",
+    "result": {
+      "toxicity_score": 0.32,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 691592,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Obviously the data in this article is fudged. Vancouver is #8 on the list, behind Newfoundland?...it is to laugh.\nThe average price for a detached house in Greater Vancouver went up 500% between 2002 and 2015...but who's counting? The average price for a house was almost $2 Million in 2015.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.01,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6216874,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "All form of hate need to be eliminated racism, homophobia, Islamophobia, Anti-Semitism, discrimination against Transgenders. We must get behind Justin, Obama, Hillary and Premier Wynne and fight Trump and this racist Quebec law!",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 648938,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Last Christmas, after spending time with family and friends, I spent the rest of my afternoon and evening at Bean\u2019s Caf\u00e9 playing Christmas music for the patrons there. I had to look real hard to see Native people. There were at least 100 folks give or take, mostly white, some Black, some Samoans, some Asians, all from this town that seems to hate them all with a passion.\n\nThere\u2019s a lot of anger here on these poor pages. People vent about the less fortunate. Lots of angst. Angry words. Smart-alecky and high and mighty. No thoughts of giving of one\u2019s self. \n\nIt\u2019s sad to witness the poor having no place to call home except Brother Francis and Bean\u2019s. Families with kids. The old and elderly. All races. All colors. \nThat\u2019s how it is.",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.02,
+        "identity_attack": 0.01,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 318502,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "can't go by \"how many\" prisoners that aren't Caucasian are in prison, as an indicator to how much crime any one ethnic group does.  minorities are convicted more often than whites.  it's a well known situation.  ie:  look at how many people we have read about here that get seemingly light sentences - they are white.  and here , minorities would more likely get a fair-er trial than in most other parts of the country.  blacks and Hispanics make up a huge part of the prison population....many unfairly.",
+    "result": {
+      "toxicity_score": 0.2,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 274237,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Now lets go picket the Conquistador!",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5377467,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You know your administration has lost the plot entirely when straight news stories begin to mock you for your garbage-laden announcements.",
+    "result": {
+      "toxicity_score": 0.62,
+      "subtypes": {
+        "severe_toxicity": 0.28,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.84,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 449717,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Women are far from defenseless! I did say it's ungentlemanly and stupid for a man to strike a woman.  Is that what you mean by \"putting women on a pedestal?  In fact I don't hit men either.  So that's a little equality.\n\nStalking is by definition, obsessive behavior.  If the woman hurt the dude, he certainly could have walked away and forgot about her, provided he was reasonably smart, emotionally healthy, and well brought up.\n\nDetermining why they were in conflict?  That's for a marriage counselor helping two committed partners to reconcile, not for two kids who just broke up.  They were teens, just learning about intimacy and commitment.  What needed to happen was that the boy's friends tell the police that someone has a new assault weapon and is planning to kill a lot of people with it, at such a place and such a time.  That is what the editor was writing about.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 443676,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "No, but apparently they are getting it up the Butte... \n\nSave all the communities is my motto...  A lot of the money to help these communties is national money, that all US tax payers put into the pot to help. Just as \"our\" money here goes to help the recent floods in the Lesser 48.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 344325,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\" If you can't figure out how to out-dodge the ubiquitous cigarette smoke that is all around you , then resign to the fact that you just don't matter,  your right to breathe clean air while you exercise in a Eugene park doesn't matter,  and you should just go suck an egg.\"    Nice.",
+    "result": {
+      "toxicity_score": 0.6,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.7,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 523167,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"...get to work in the morning...\" ?? WTF, are you joshin' me? I never roll in 'til at least noon, then it's right back out the door for that two Martini lunch (on the company dime of course, and yes I drink Hendricks, only the best for The Boss). And I'm gonna track that oil price, if it proves out we might just have somethin for ya.",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 336185,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "A lot of them okay? A meaningful number.\n\nThis is an under-reported story- the fact that a handful of evangelical christians have shaped homeless policy in an undemocratic way by handing out lots of camping supplies.  They reject any criticism and reject any input from neighbors.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5746271,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You may not have noticed but I was replying to a comment posted in the Latin language. I feel that the poster will understand what I wrote.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 455611,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "It was more cost effective to rape black, female, slaves and enslaving their children, than buying adult slaves. Rape was just a business decision and fun. The memoirs of Mary Chestnut mentions how white wives of slave owners didn't like the fact that so many of their slaves looked like their husbands.",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 0.99,
+        "obscene": 0.95,
+        "threat": 0.2,
+        "insult": 0.9,
+        "identity_attack": 0.95,
+        "sexual_explicit": 0.9
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 827717,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "If Trudeau does not accept your advice, Ms Wente, he's a damned fool. He will ignore it.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5945917,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I completely disagree with you Amy that the woman does not have her family as a priority. First off, not everyone thinks that birthdays are \"monumental\". Second, why shouldn't she be able to do what she wants for her birthday? My SIL gave my brother a once in a lifetime trip to a private golf course that they only let so many non members in a year for his birthday because she knew it would make him happy. That is unconditional love, when you want the person you love to be happy. Just because a person gets married and has kids does not mean that they give up their wants and likes. And it sure as heck does not mean that she does not love her family or that she is cheating or mentally checked out. If it was reversed and the man went on a fishing trip with his buddies, no one would care. Give women a break already.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5132846,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What about cutting the head off of the snake by targeting little Kim Fat Un?",
+    "result": {
+      "toxicity_score": 0.94,
+      "subtypes": {
+        "severe_toxicity": 0.88,
+        "obscene": 0.05,
+        "threat": 0.92,
+        "insult": 0.65,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 858911,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What are you reading? Most articles and comments here are concerned with sexual morality and transgender issues. Any social matters discussed are the espousing of left wing causes which have nothing in common with Catholic social teaching.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1039966,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "John F,\nYou allow that there may be room for error in how people interpret the display of the Confederate flag. Therefore in displaying that controversial symbol, the motives of those making their statements should be consulted. That's been one of my two points in posting here.\nAs to whose interpretation is more relevant, the displayer's or the viewers, again I think the displayer's motives need to be consulted in making that determination.",
+    "result": {
+      "toxicity_score": 0.03,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5792266,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The righteous ALT LEFT will eradicate fascist inbred redneck white supremacists like cockroaches. We will hunt them down like pigs and lynch them in our town squares and cities. We will gut them as they emerge from their backwoods swamps. Be warned white supremacist/nationalist scum. We will kill you and burn down your homes and destroy you and your families. The righteous ALT LEFT will cut your filthy throats in your homes in fort of your children.",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 0.99,
+        "obscene": 0.85,
+        "threat": 0.99,
+        "insult": 0.9,
+        "identity_attack": 0.95,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 4982406,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"...the truth\"???   Whose moral authority would condone what happened with these schools?  Yours, perhaps????",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5243145,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Exactly!  And is fun to read how you send up \"traditional\" catholics with your over-the-top satire.  The inflated educational claims, the hyperbolic self-righteousness, the over-stated cries of being harassed! I am sure, as you say, the folks here who know how to use humor to communicate a point recognize you are lampooning those who identify as \"conservative\" or \"traditional\" catholics.  So, yes, keep up the Funny!",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 404214,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I'll save you the trouble of reading the article. \n\nJerry Prevo is an asshole.",
+    "result": {
+      "toxicity_score": 0.68,
+      "subtypes": {
+        "severe_toxicity": 0.08,
+        "obscene": 0.25,
+        "threat": 0.0,
+        "insult": 0.92,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5205035,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Of course, there is only one Christ.  The issue is that the priest is \"an image of Christ.\"  Does this require the priest to be male?  Absolutely not, because the Word became *flesh* (*human*).  The incarnated masculinity of Jesus is part of God embracing all the limitations of the human condition.  For the redemption, and the sacramental economy, the incarnated masculinity of Jesus is as incidental as the color of his eyes.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5209265,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "BS\n\nCommunist China is a disease that keeps on giving.    It gives nothing but corruption, evil, and mendacity.  Yet, it is highly infectious. \n\nToo many  Canadians Liberals have caught the bug, [they are susceptible], aided and abetted the \n bug, are making too much  money off of  it, and deserve to  die in shame and ignominy. \n\nYou filthy slime balls, you make single cell organisms proud in comparison.",
+    "result": {
+      "toxicity_score": 0.94,
+      "subtypes": {
+        "severe_toxicity": 0.88,
+        "obscene": 0.15,
+        "threat": 0.78,
+        "insult": 0.96,
+        "identity_attack": 0.84,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6129539,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "We've been updating the tech for years.",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5529402,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"ISIS and their Muslim radical friends are laughing at liberal Canada.\"\n\n--\n\nThey are?\n\nProof?\n\nEvidence?\n\nLink?\n\nAnything?",
+    "result": {
+      "toxicity_score": 0.68,
+      "subtypes": {
+        "severe_toxicity": 0.35,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.78,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 555866,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Since you can not or will not conduct a debate in a civil manner and refuse to refute just one fact I have recounted to you in the last year, I hope you enjoy your world of fantasy on your own.",
+    "result": {
+      "toxicity_score": 0.55,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5115219,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The g and m, the dumbest and lowest \nsacks of fecal matter.\n  It's time a real man is running the US. \nMy greatest hope is he gets Russia so\ntickek he starts a nuclear war and russia\ndrops their first on g and m. Rid the world\nof that shoddy rag, along with thier limp\nwristed staff.",
+    "result": {
+      "toxicity_score": 0.85,
+      "subtypes": {
+        "severe_toxicity": 0.8,
+        "obscene": 0.4,
+        "threat": 0.2,
+        "insult": 0.9,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 926217,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You, John Titior, and several others here should stop taking foreign visitor visas looking for children to have sex with. Studies show 85-percent of child sex perpetrators using tourist visas to Latin America are white men.",
+    "result": {
+      "toxicity_score": 0.97,
+      "subtypes": {
+        "severe_toxicity": 0.95,
+        "obscene": 0.9,
+        "threat": 0.4,
+        "insult": 0.9,
+        "identity_attack": 0.85,
+        "sexual_explicit": 0.9
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6180251,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "DOGS----\nEAT\nSHIT\nSLEEP\nBARK\n\nNIGERS\nEAT \nSHIT\nSLEEP\nRAPE\nMURDER\nSTEAL\n\nDOGS and NIGERS---PAST TIME to EXTERMINATE the FILTHY NON-HUMAN MONGRELS",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 0.98,
+        "obscene": 0.95,
+        "threat": 0.97,
+        "insult": 0.96,
+        "identity_attack": 0.99,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5300391,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "If criminals obeyed laws....like say the new gun-grabber law  requiring someone to submit to a background check before takin possession of a gun.....then either the guns would still be in the store or the criminals would have left behind photocopies of their IDs and background paperwork.  \n\nBlaming the guns for being stolen is like blaming a woman for being raped.",
+    "result": {
+      "toxicity_score": 0.55,
+      "subtypes": {
+        "severe_toxicity": 0.3,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5410090,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The left reflexively came to the defense of a religious freedom concept that really separates Church and State in the secular realm and does not give preference for one religious view point over another.  I am not personally interested in giving fundamental Christianity any rights over our constitutional system anymore than I would fundamentalist moslems or jews.",
+    "result": {
+      "toxicity_score": 0.12,
+      "subtypes": {
+        "severe_toxicity": 0.04,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.08,
+        "identity_attack": 0.07,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 706754,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "As I correctly said, NFP is a method of having sexual without procreating. Otherwise, why would anyone bother with it.\n\nI notice that you do not give an alternate definition of contraception. Because I gave a perfectly good one.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 842784,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Well if it tells you anything he didn't even turn himself in. Karen Unger did it for him after speaking to him and took over the case in an instant. Clearly, he has friends in higher places than my Uncle did.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 324164,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "And he will soon be replaced...then killed...then replaced...then killed...then replaced...then killed...then replaced. The pattern must be to big to fail because the pattern will continue for as long as we are there.",
+    "result": {
+      "toxicity_score": 0.88,
+      "subtypes": {
+        "severe_toxicity": 0.78,
+        "obscene": 0.02,
+        "threat": 0.92,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 368919,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"Latino\", ending with \"o\" denoted the Spanish masculine. \"Latina\", ending with \"a\" denotes feminine. This is the first I've heard of \"Latinx\".",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6015185,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Something hilariously hypocritical is going on, which basically unmasks the fact that this is not about patriotism, but about racism - through the conflation of partriotism and opposition to protests over racial injustice.\n\nSo, players have kneeled, players have remained in the lockeroom.  Owners have shown up on the field to lock arms with their players.\n\nAnd while this is going on, WHILE THE NATIONAL ANTHEM IS PERFORMED, the yahoos in the stands are yelling at the players to stand up.  WHILE THE NATIONAL ANTHEM IS BEING PERFORMED.\n\n- Not standing deferentially.\n\n- Not standing and paying attention to the glory of the flag and anthem.\n\n-Yelling orders at black men below them.\n\n. . . maybe they think that conduct IS what patriotism is all about??",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 615260,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You liberals always hark back to the bishops and child abuse. Hardly ever do we hear the abusing priests criticised in this forum, it is always the bishops. You know as well as I do that the bishops are subject to the Commandments and binding teaching of the Church just like everyone else. Like the rest of us, if they have done wrong they will account for it if not in this world then in the next. You don't appear to extend your 'shades of grey' theory to them.\nThis shades of grey theory supposes that the vast majority of us don't know what day it is. That life is fraught with so many problems that we cannot come to any rational decision as to what is right and what is wrong. Those of us who bother to examine our consciences and let's face it I doubt that many people even Christians do, atheists and agnostics certainly won't as they mainly subscribe to the animal instinct of self-preservation, need guidance as our intellects and wills are flawed through Original Sin.\nContinued .....",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.5,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6051702,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Please check your facts.  The underlying premise of these so-called protests is wrong.  The facts are wrong, the narrative is factually incorrect and by watching I would be giving support to what amounts to a demonstrative falsehood.  I have followed the Broncos since Floyd Little was drafted.....no more.  I am done!!!",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5235883,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Comey rigged the election. He's a Russian agent. Fire his butt.",
+    "result": {
+      "toxicity_score": 0.68,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.0,
+        "threat": 0.45,
+        "insult": 0.6,
+        "identity_attack": 0.15,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 306369,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The Anti-Christ? Love your Democratic Party. Just toss in a Clinton Jewish Law Degree.\n\nhttps://www.youtube.com/watch?v=N3n9yjiuMLI",
+    "result": {
+      "toxicity_score": 0.55,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 782056,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "the moslems invaded israel and built their sign of conquer on what they believed to be the temple mount. that land of israel was given to abraham, isaac, and jacob. the book is not a trilogy- the Lamb of God is the beginning and the end. you call the God of the Jews and Christians 'ha-satan'? yet you claim to be  the final chapter? so interesting.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.5,
+        "identity_attack": 0.7,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 476844,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "how much crap are we going to take? they stole our fish and we said nothing, they stole our crab and we said nothing. now they steal our dividend and i hear some mouse like complaining. how about taking to the streets people?  how about some good old fashioned civil disobedience? lets start with the dividend and get our ifq fisheries back! for once lets think of future generations.",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5733436,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Well, this one lays at the feet of the Chinese and the past two Presidential administrations.",
+    "result": {
+      "toxicity_score": 0.2,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.15,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6300562,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Exactly how I said. Being gay does not make you turn to drug and violence. That is a false cause argument. Being gay has a stigma associated with it. Many LGBTQ youth find themselves disowned or passed by. Those things always lead to worse lifestyles. \n\nThe only thing I've been arguing is that being gay does not predispose you to certain illicit behaviors. The way people treat LGBTQ people does. We're all aware of the bullying epidemic and the suicide rates of LGBTQ people.\n\nI'm not defending Adam West here, nor am I gay, as people seem to be \"accusing\" me of. They just don't understand how they are twisting the narrative to fit their intolerance. \n\nA perfect example are the first series of comments. \"Not surprised at all this happened. Gay people have special protections.\" And then in the next breath statistics are stated that show just how unprotected LGBTQ people are. Then the leap quickly goes to imply that being LGBTQ makes you more likely to be a serial killer.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 250751,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Wikipedia:\nHomophobia encompasses a range of negative attitudes and feelings toward homosexuality or people who are identified or perceived as being lesbian, gay, bisexual or transgender (LGBT).[1][2][3] It has been defined as contempt, prejudice, aversion, hatred or antipathy, may be based on irrational fear, and is sometimes related to religious beliefs.[4]\n\nI don't need to meet Trump or McKinley to know they are bigots.  I will say whatever I want about you or him, \" my friend\"",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.05,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5997855,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "You are murdering feckless SCUM.  Your mother would slap you for being the piece of shit that you are.  I hope you die in enormous pain from cancer in your asshole that makes you cry from the pain every time you shit you fucking subhuman scum......Fuck you. I would gladly cut your fucking balls off in a minute....go suck cock you piece of shit! Fuck you and your mother you sorry fuckin swill!",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 0.98,
+        "obscene": 0.97,
+        "threat": 0.95,
+        "insult": 0.99,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.6
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 939610,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Totally disagree with these thugs.  They are no didferent from the klu klux klan. They are not doing anything positive- only looting and destroying things. All black bloc should be arrested and thrown in jail.  If you want change, then use the ballot box.",
+    "result": {
+      "toxicity_score": 0.75,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.1,
+        "threat": 0.2,
+        "insult": 0.8,
+        "identity_attack": 0.5,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1032551,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Canadians will vote out Muslim Vote bank politics",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 692264,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The CEO of Exxon Mobil as US Secretary of State would make a lot of sense, actually.\n\nYanks might as well eliminate all of the middle players and receive their marching orders from the \"God Pod\" directly, eh.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5746133,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What you are saying is you need $4 million dollars!",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 710456,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "They all deserve to die, too bad we can stone them in town square.",
+    "result": {
+      "toxicity_score": 0.97,
+      "subtypes": {
+        "severe_toxicity": 0.95,
+        "obscene": 0.1,
+        "threat": 0.9,
+        "insult": 0.7,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 996371,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "So called? Excellent choice of phrase. Now you have as much credibility  as d Trump. Congratulate yourself.",
+    "result": {
+      "toxicity_score": 0.38,
+      "subtypes": {
+        "severe_toxicity": 0.08,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.45,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1043422,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Easiest way to change this is to just pee all over the seat. Women will eventually get sick of wiping off the seat and want to ban penises from their bathrooms.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.62,
+        "obscene": 0.45,
+        "threat": 0.33,
+        "insult": 0.71,
+        "identity_attack": 0.64,
+        "sexual_explicit": 0.22
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5826168,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Best book I've read in a long time. Couldn't put it down.",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5865673,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "He doesn't deserve a job because he is a terrible quarterback. His skin color has nothing to do with it. I wish people would stop making race and issue with football when well over 70% of all professional football players are not white.",
+    "result": {
+      "toxicity_score": 0.2,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 743370,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "how many decades of dirty dick Cheney will suit you now that he's back in charge?",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.85,
+        "threat": 0.0,
+        "insult": 0.9,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.8
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5230705,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "To continue:  women are better educated than any other time in history, and they don't want to be treated like children anymore; hence, the decline in sisters and nuns. And the orders of sisters who do treat their members like adults run the risk of getting in trouble with The Vatican (not necessarily with Pope Francis).  Women don't want their gender and 'sex' being seen as the root of all evil.  People have a hard time believing in Original Sin.  People don't see why divorce and remarriage are wrong.  People don't see why contraception is wrong (and I don't either but I think abortion is almost always wrong).  Too many of our RC senior citizens are spending their last years wondering if they are going to hell when they die -- what a great way to spend one's remaining years.  No one wants to spend their whole life being threatened with Hell if they step out of line once too often and don't 'repent'.  The RCC needs to address these issues and to mature.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.02,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5742462,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "T. Swift alleges that M. Mueller touched her bare bottom.  No panties?  I'd have gone for a sphincter massage.  Some girls like dat.",
+    "result": {
+      "toxicity_score": 0.84,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.92,
+        "threat": 0.02,
+        "insult": 0.55,
+        "identity_attack": 0.15,
+        "sexual_explicit": 0.88
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5801652,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Awesome! Lets cut the head off hate! Lets stab it and burn its house down! lets march together and beat hate with rocks and clubs and run out out of town! Hooray for us for showing hate we will not tolerate it and will kill or beat down any that oppose or stance against hate. \n\nYeah, that sounds like the good guys. Why is it so hard for people to admit that using violence to achieve a goal is not acceptable in a civil society?",
+    "result": {
+      "toxicity_score": 0.97,
+      "subtypes": {
+        "severe_toxicity": 0.94,
+        "obscene": 0.08,
+        "threat": 0.92,
+        "insult": 0.58,
+        "identity_attack": 0.15,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5802911,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Welcome home!",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 295745,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Kill all the nigggers and pedophiles!",
+    "result": {
+      "toxicity_score": 0.99,
+      "subtypes": {
+        "severe_toxicity": 0.99,
+        "obscene": 0.9,
+        "threat": 0.95,
+        "insult": 0.9,
+        "identity_attack": 0.9,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 749153,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Lies, damn lies and POLLS! All skewed ti get the desired result.  No one pays any attention to them!",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5883664,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": ".\n.\nIs there really a God ?\n... I once thought there was even after being RAPED Physically, Emotionally AND SPIRITUALLY by my pastor, til I witnessed how these so called mEN of God(Jorge et. al.) Damned their OWN Victims.\n.\nIf there is a God...and he has the conjones to let me into heaven, after having to Live this Hell wrought by these so called mEN of God, I'm going to give him a good swift kick in the arse !\n.\n.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.2,
+        "threat": 0.1,
+        "insult": 0.5,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.1
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 756564,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Don't confuse a meaningless reaction geared for public consumption. The resolution adopted on Friday at the U.N. changes nothing on the ground between Israel and the Palestinians and likely will be all but ignored by the incoming Trump administration. Last time anyone looked, the Palis were still sucking on sand and rubble, still with the lowest standard of living, still throwing rocks at steel, still engaged in honor killings of wives and daughters, still engaging in female genital mutilation, still torturing and murdering gays, still stabbing innocent Israelis, still.... What a wonderful culture.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.55,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.45,
+        "identity_attack": 0.65,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 553508,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Meh, you know, abortion is in most cases not the \"difficult\" or \"soul searching\" decision a lot of you guys want it to be (for whatever reason). Women are, as a whole, pretty damn good at already knowing what they want.",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5973433,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Yet still the  choking smog in Beijing, Shanghai and other Chinese cities... just imagine the level of greenhouse gas pollution, but despite this, the lemmings are out in full force trumpeting China as a shining example of environmental sensitivity.  Shocking!",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5864070,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "No, the traditionalist \"wing\" of the Church is \"disappointed\" in his heterodoxy.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 733486,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "There is a cleric of that Old Catholic Church that posts here.  He doesn't identify himself as such, but his avatar is a picture of  him in a Roman collar.  When I asked him about, he hemmed and hawed.  I think that there are many who simply want the Church to change to suit them.  I don't know why - perhaps they feel threatened??",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5885805,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Hope they're both beaten to death in the can. Should have gotten the death penalty. Says everything about Kansas social services. It's a sick country.",
+    "result": {
+      "toxicity_score": 0.95,
+      "subtypes": {
+        "severe_toxicity": 0.9,
+        "obscene": 0.1,
+        "threat": 0.85,
+        "insult": 0.8,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1005458,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Corbell, you are a cowardly little man, if indeed you are a man. Not likely however.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.85,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1028354,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"President Trump continues to be respectful and supportive of L.G.B.T.Q. rights, just as he was throughout the election,\" the White House said in a statement. \n\n\"The president is proud to have been the first ever G.O.P. nominee to mention the L.G.B.T.Q. community in his nomination acceptance speech, pledging then to protect the community from violence and oppression.\"",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5409830,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Let me be very clear: I detest all religions equally. I find most of them to be violent, intolerant stories invented by men who had a very poor understanding of science. Religion is a personal matter, and it has no place in politics or education (unless being studied for historical purposes). \nMy government coming out and calling me an \"islamophobe\" for my personal opinions and thoughts about religion is absolutely disgusting, and I will not stand for it. Using the word \"islamophobia\" is making matters worse. Why? Because we aren't stupid. Everyone knows what it really means: Dislike of muslims, OR ISLAM.\n\nMuslims are people - People should be treated with respect, regardless of identity\nIslam is an ideology - I find the the ideology of islam nothing short of abhorrent\n\nAre you able to tell the difference? Apparently not. This is a serious problem.\n\nLiberals: Do you really think you can force me to change my opinions on religion? \nBest of luck with that.",
+    "result": {
+      "toxicity_score": 0.25,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.15,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5647080,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Missing a word.. \"ILLEGAL\"..  also, these illegals paid to be ushered in that trailer.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.45,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.65,
+        "identity_attack": 0.85,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5542382,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "i am just sorry that khadr didnt get a bullet in the head before he blew the head off that innocent father because his islamic boogie skywizard told him to.",
+    "result": {
+      "toxicity_score": 0.95,
+      "subtypes": {
+        "severe_toxicity": 0.9,
+        "obscene": 0.3,
+        "threat": 0.85,
+        "insult": 0.8,
+        "identity_attack": 0.85,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5615782,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I posted that because back in the day when the hockey team Colorado Rockies came out with a slogan of \"Rockie Hockey\" which everyone criticized because there is no such word.  It was eventually changed to \"Rocky Hockey\".  Do you consider Mt Evans a Rockie Mountain or a Rocky Mountain... how about the Rocky Mountain News as another example?",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1007681,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The slides are cut slope failures on very steep ground consisting of mainly soil, above.  Its been a maintenance problem along this stretch for decades.",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 817479,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I hope they do repeal it. I'm going to enjoy the fallout, including the wails from the red states that most benefit from the ACA.  You can't fix stupid.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5893289,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Gender and indigenous rights have no place at the NAFTA negotiating table.  Those are domestic issues.",
+    "result": {
+      "toxicity_score": 0.58,
+      "subtypes": {
+        "severe_toxicity": 0.12,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.32,
+        "identity_attack": 0.41,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5494490,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The fascist movement is you lefties trying to destroy democracy and freedom of religion and freedom of speech disguised as liberalism?.\nIt if you who are fascist. You accept no other opinion but your own. \nYou would destroy freedom instead of admitting you are wrong.\nWe are trying to stop the Islamists from taking over our countries, our cultures, our way of life\nand not get blown up either,\n\nThat is the age of \"F-U\" to the lefties\nNot fascism.\nIf you think we are gonna let you destroy what we have built in the west you are dreaming\ncivil war is coming - get used to it.\nWe will fight you in streets if we have to.\nYou threaten our freedoms with your communist/leftist rubbish\nYour beliefs are based on hate",
+    "result": {
+      "toxicity_score": 0.85,
+      "subtypes": {
+        "severe_toxicity": 0.7,
+        "obscene": 0.0,
+        "threat": 0.8,
+        "insult": 0.75,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5868187,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Ouch again! What's next - spit balls?",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.07,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5135589,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What I want to know is who the successful bidder was, and did he give the tax delinquents back their beetle.  That is the real issue here.  On the assumption that its original color was olive, after the owners' name, did the buyer first change the color to red so that it would stand out more in winter, or bright white so that the IRS would find it harder to seize in the future?  Did they pay their taxes or are they still paying it off by deductions to their social security?",
+    "result": {
+      "toxicity_score": 0.03,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1010029,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Kellie Leitch talks so much about how many letters are behind her name.  But it is very clear with this eliist game she's playing on us here that the only letters she thinks are behind our names are  S*U*C*K*E*R*S !",
+    "result": {
+      "toxicity_score": 0.55,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5504216,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "At least in the recent past there are 1.5 oil spills A DAY in Alaska (pipeline and/or drllling). Their safety record is assuring giving us even more faith in the industry's integrity, competence, responsibility, and priorties. Drill baby drill my ass.",
+    "result": {
+      "toxicity_score": 0.48,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6021492,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "This sort of thing happens every day, numerous times, in hospitals and clinics across the U.S.It's just not reported, as nurses protect their own.It's a safe bet that the manager who slapped the wrists of those perverts was a former female floor nurse who enjoyed the same kind of voyeurism. Just reverse the sexes of everyone involved, and you'll see how ugly it is.Male nurses that voyeured on a female client would not only be identified and fired, but would face serious charges via the BOB and possibly criminal charges of sexual voyeurism, which is a class four felony I believe-they might even do time in prison.\nA male friend of mine was sexually battered by a female NP.I will never again leave him alone for even one second with female medical personnel, especially nurses.THEY ARE NOT TO BE TRUSTED!This sort of incident speaks volumes of the corrupt female dominated nursing industry. If he has to be hospitalized I'll be in his room to protect him.",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.0,
+        "threat": 0.07,
+        "insult": 0.92,
+        "identity_attack": 0.84,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5354662,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Too many 'Gun-nuts' just don't think about the consequences of keeping un-locked weapons in the house. This is \"M'erica, you can't tell me to lock my guns\". That's the problem.",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5488141,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"But since you talked to one liberal, clearly that's a good enough sampling to paint the whole group with one big brush.\"\n\nSo you're okay with vouchers as long as religious schools aren't involved?\n\n\"5. The quality of education at the private schools may be brought down by new students that aren't as gifted.\"\n\nMy kids went to mostly private schools, and it didn't appear that kids were turned down for having a learning disability, because some of the kids clearly did. Also if you're worried about the quality of education, schools full of illegal aliens certainly doesn't help.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1062400,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Yeah my brother lost his firearm privileges after his first DV conviction many years ago.\nThis Tran guy sounds like a real shit bag.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.7,
+        "threat": 0.0,
+        "insult": 0.9,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5534314,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The real question is...who the hell in his/her right mind would want to adopt a micro baby???  \n\nI'd rather just rescue another shelter dog.  Cuter, smarter, more civilized and definitely smell better.",
+    "result": {
+      "toxicity_score": 0.58,
+      "subtypes": {
+        "severe_toxicity": 0.12,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.68,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5746211,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "To think this ^ regurgitating burger be arrogant enough to pretend a knowledgeable supremacy to a highly qualified legal expert. Jesus wept, and wept some more, and then expelled himself to eternal damnation in the face of such wretchedness. My guy, its better to be honest about your racial prejudice. a lesson i have come to learn... you expose yourself so easily as a right white cliche. in one sentence, you give yourself away. one sentence.  don't be boring. be like jeffery down here who's appears to be trying to summon/arouse, with the his grandpa's old wigi board, the spirit of cecil rhodes, in order (if I'm not mistaken) to enact some sort of nostalgic colonial necrophilic love journey. Jeffery has a wonderful imagination...  something i can't say for you...",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.78,
+        "obscene": 0.35,
+        "threat": 0.0,
+        "insult": 0.92,
+        "identity_attack": 0.68,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1085563,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "|This hateful incident echoes the disturbing pattern of anti-immigrant, anti-Semitic, and anti-Muslim attacks in our state, and across the country. \"\n\nHow convenient of you Mr. Inslee to omit the various attacks on American soil perpetuated by immigrants across the country towards American citizens.   Perhaps it could even be useful to list all the attacks perpetuated by immigrants upon European states as well?   Because those facts have become an all too familiar theme as well.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.5,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5008499,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The_classic_case_was_not_masturbation_(which_requires_a_bath_in_the_Tenach),_but_in_deliberately_withholding_offspring_from_your_brother's_widow._Does_your_brother_have_a_widow?_Have_you_been_doing_your_family_duty?",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.05
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6005736,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "This is a cartoonish portrayal of men. Many men want a life partner every bit as much as do women.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5335759,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "In the March budget the feds made it mandatory to report the sale of your princ. dwelling. This partly addresses the ones buying and selling for business sake and claiming it as p.dwelling. There is no magic number for how many homes you can buy and sell claiming p.d. they(cra) look for a pattern over time Hike in interest will cool things as well. the problem is mostly in T.O. Vanc. Montreal...to try and slow a few places down and affect the country seems extreme. New York, chicago,Miami all have their  ridiculous price tags and large appreciation margins...let Canada have theirs.",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5764592,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "On August 9, Clarence Dix and Bob Avakian of the Revolutionary Communist Party (revcom.us) wrote asking people to come to Charlottesville and fight the fascist regime of Trump etc. The problem was not \"white nationalists\", but the mayor telling the local police, state troopers and national guard to stand down, thereby allowing chaos to ensue. Local and state officials are responsible for the death and destruction.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.1,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 544121,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Some men just need a good stabbing. That will show them. \nI don't know if those kind of people can change. Having an open dialogue about it as a nation is a good start but for a more effective solution see above. Turn the tables around. Have the men fear the women for a change.",
+    "result": {
+      "toxicity_score": 0.94,
+      "subtypes": {
+        "severe_toxicity": 0.88,
+        "obscene": 0.1,
+        "threat": 0.96,
+        "insult": 0.65,
+        "identity_attack": 0.7,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 687590,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "There's still time before the Christmas break to pass another one...",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5036088,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Conservatives never cared about \"Wall Street\" working in the White House. \n\nThey cared about \"Wall Street\" working for Obama. \n\nConservatives never cared about presidents playing golf, they cared about Obama playing golf. \n\nHell, conservatives wouldn't even care if Donald Trump was born in Kenya. \n\nThey just don't think black people are actually American.",
+    "result": {
+      "toxicity_score": 0.4,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.45,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5848708,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Klastri, back to name calling when you can't explain a comment you made.  You said transgenders in the military is a civil right.  A sharp lawyer like you ought to be able to defend your position, so why can't you?",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.5,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 877871,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"artificial electoral college system\"\n\nThanks, I needed that chuckle.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5594663,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Once again, the little guy gets totally screwed! Thanks Obama...",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.05,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 585192,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Good question. An Indian maiden or chief? How about a Mexican costume - China Poblana clad dancer, mariachi or bullfighter? Chinese with a rice hat and fumanchu beard? Japanese Geisha with white face? \nCertainly we Americans - our ancestors - have seriously mistreated more than just blacks.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.55,
+        "identity_attack": 0.45,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5618857,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Sure you will find your peace.  Blow yourself up, get 72 virgins; you won't care where you're buried. Just be sure to kill innocent women and children, like a good and true muslim, for extra special afterlife accommodation.",
+    "result": {
+      "toxicity_score": 0.97,
+      "subtypes": {
+        "severe_toxicity": 0.96,
+        "obscene": 0.58,
+        "threat": 0.94,
+        "insult": 0.88,
+        "identity_attack": 0.94,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5664336,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "$84 million on Viagra and Cialis, $8 miilion on Transgender according to a Rand Corporation study conducted in 2016.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.05,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 588873,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "American lefties are NOT welcome here. Stay where you are. Are you listening Snoop dog?",
+    "result": {
+      "toxicity_score": 0.75,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.0,
+        "threat": 0.15,
+        "insult": 0.8,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 949439,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Eric, your \"opinion\" of me has absolutely no importance in my life. I am  a well liked and respected person from my family, friends and co-workers. As to your statement, let's look at a different scenario.  A black man is passing through a predominately white neighborhood and is accosted. He is insulted and his car is struck, in fact someone punctures his tires. He, in your mind is at fault for not just \"going around\" the neighborhood? He is further at fault if he confronts those who have assaulted his property?   How about a young lady wearing very revealing clothes and goes into a dive bar. Is it her fault for not just \"going around?\" How about if she resist the unwanted advances, is she further at fault for not just shutting up and taking whatever is dished out to her? Your mind set, your hatred towards all who have different opinions then you do is very revealing Eric, you blame the victim if those who attack see the world through the same narrow blinders you do. Pitiful really.",
+    "result": {
+      "toxicity_score": 0.62,
+      "subtypes": {
+        "severe_toxicity": 0.28,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.53,
+        "identity_attack": 0.19,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5123311,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Why can't the public vote on these expenditures? None in Bryan's list were crisis decisions that couldn't wait for the next general election to decide? It would eliminate the suspicion that the commissioners were catering to special interests or cutting deals. Why can't we have democracy? Is the public really stupid enough to buy any of the above scams?",
+    "result": {
+      "toxicity_score": 0.58,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.65,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5514190,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Waste of time and money. Time we moved on.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5424039,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "At this rate the only guy eligible to replace an impeached and jailed Trump may well be Kiefer Sutherland",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6069873,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I don't much like your statements either Bill and I'm as white as you can get.    There is no historical equivalency between the death and damage to black Americans and white Americans in terms of racial discrimination.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5160101,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Apparently, Karim Cheurfi, the guy who attack the police in Paris was a French national but they don't mention his or his family's country of origin.\n\nReports say police are also looking for a potential second suspect who was identified as Youssouf El Osri. \n\nAnd one article says the \"Islamic State claimed responsibility for the Champs Elysees shooting hours after the attack, in a statement identifying the attacker as \u201cAbu Yousif the Belgian\u201d.\n\nThe attack seems to be another Muslim terrorist attack.\n\nBut why do followers of Islam want to attack people in France? Where do followers of Islam get the idea they must attack and kill non Muslims?",
+    "result": {
+      "toxicity_score": 0.68,
+      "subtypes": {
+        "severe_toxicity": 0.45,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.35,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5137455,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Let's see:  Did Clinton dream about having sex with underage girls? Nope. Did he walk in unannounced on naked teenage girls in their dressing rooms? Nope. Did he repeatedly walk unannounced into the dressing rooms of adult beauty pageant attendees? Nope. Did he brag about sexually assaulting women and \"pussy grabbing?\"  Nope. \nDid he routinely try to force himself on women? Nope. Did he rape his wife? Nope. \nHave he and his wife been routinely demonized for the past 30+ years while Republican pedophiles, rapists, sexual abusers and a variety of hypocritical conservative perverts got away scot free?  Oh yes.",
+    "result": {
+      "toxicity_score": 0.68,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.4,
+        "threat": 0.1,
+        "insult": 0.6,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.5
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 680030,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"immiserate\": transitive verb, meaning to make miserable.\n\nDarn those Chinese and their inscrutable justice system! Imagine making accused spies feel miserable. You'd never see America or Canada doing that.",
+    "result": {
+      "toxicity_score": 0.66,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.5,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5167655,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Many of the people who opposed Lincoln supported slavery. Many -- not all -- of the people who support Trump also support racism, homophobia, and male supremacy.",
+    "result": {
+      "toxicity_score": 0.5,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.3,
+        "identity_attack": 0.05,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5849099,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "BS is a polite eurocentric diplomatic way of saying the ANC is lying obfuscating and deceiving the people. Everyone by now also knows that they are cheating and stealing the people into abject irreversible poverty. So venal are they that they murder one another for a place at the feeding trough. They feel zero for the people and have performed so badly in government that they have ruined the prospects of \"a better life for all\".\nNo education no health care no policing no services no hope. Just the sluring burping crunching farting  procreating squealing sounds of a voracious parasite draining the life from its host. Do not think you can talk this creature out of its evil ways\nThe only hope is to rip it off and throw it in a bottle of formalin so that it can be studied to prevent reoccurrance\nLitigate the racist criminal ANC out of existence. Vote them out or die!",
+    "result": {
+      "toxicity_score": 0.96,
+      "subtypes": {
+        "severe_toxicity": 0.92,
+        "obscene": 0.4,
+        "threat": 0.85,
+        "insult": 0.93,
+        "identity_attack": 0.78,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5621222,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Wasn't too long ago respectfully VRJ, one of the TV stations here in Denver had a top shelf employee caught shopping for sex with saplings...his career was certainly over with! As far as the program, it was great. Jefferson County and some law enforcement agencies run online stings all the time going after the shorteyes. Publish them as all those arrested regardless of the crime are public record, this being one that most view as a very serious. I don't care for \"John's TV\", consenting adults and prostitutes, but when it involves kids, I hope they get burned.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.7,
+        "obscene": 0.4,
+        "threat": 0.6,
+        "insult": 0.3,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.2
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 947899,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Do you think that Brooks' piece was uncivil? I don't.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6032730,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "There's no excuse for what NK did to this young man. It cannot and should not go unanswered.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 469329,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "why is he still alive?",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.3,
+        "obscene": 0.0,
+        "threat": 0.2,
+        "insult": 0.4,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5981279,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "We will send wave after wave of American soldiers to storm the beaches of North Korea. We will kill until no North Korean remains standing. We will burn their cities and desecrate the graves of their ancestors. To war!",
+    "result": {
+      "toxicity_score": 0.98,
+      "subtypes": {
+        "severe_toxicity": 0.97,
+        "obscene": 0.5,
+        "threat": 0.99,
+        "insult": 0.9,
+        "identity_attack": 0.95,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5987079,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Outsider:  It's tough to rewrite history, but I'll give you credit for trying.  The Southern economy was premised on slavery and the leaders perceived, probably correctly, that the end of slavery would cause a tremendous upheavel in Southern life...both culturally and economically.  Those leaders also perceived (again, likely very correctly) that, with the election fo Abraham Lincoln and the ever-growing power of the Abolitionist movement, slavery in the U.S. was coming to an end....and likely in the near future.  Rather than seek to negotiate as favorable a transition as possible, likely including compensation for emancipated slaves, the South chose to secede.  It's no surprise that most the young men in the South chose to support secession. They were raised in the South and slavery was part of the values system of their lives.  ....and, yes, those damn Yankees were going to end slavery.  Gary Crum",
+    "result": {
+      "toxicity_score": 0.08,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.04,
+        "threat": 0.0,
+        "insult": 0.06,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6288045,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Alaska is now second in the nation for crime. Only New Mexico is worse. A dreadful statistic for a spectacular state.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 724755,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Nice try. Failed",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 387904,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Well you had one blm supporter,  call that Dallas sniper a martyr, kinda makes you wonder who's bent here ,\nAs far as I'm concerned All lives matter, \nThis individual was suicidal, \nMental health services has been going down hill for decades, that in itself is sad for the entire United States ,",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 518474,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I can't wait for a panel of women to post a political ad announcing that they were raped by tRump.  The American people don't even know half of the battery and rapes that tRump has committed.  He's like a damn juvenile say, \"Bill Clinton said far worse.\"  Saying and doing is two different things.  tRump even licks his lips when he's taking about his daughter, Ivanka.",
+    "result": {
+      "toxicity_score": 0.94,
+      "subtypes": {
+        "severe_toxicity": 0.88,
+        "obscene": 0.32,
+        "threat": 0.07,
+        "insult": 0.86,
+        "identity_attack": 0.81,
+        "sexual_explicit": 0.21
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1071911,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Do you sincerely think you know anything about me? What a stupid response/question.",
+    "result": {
+      "toxicity_score": 0.66,
+      "subtypes": {
+        "severe_toxicity": 0.15,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.62,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1075641,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The Globalists start with these phony surveys. The money is going to support the debts. Like Ontario, Canada has overspent. The price of oil is down and we pay the highest gas prices in North America. The debt trap has been sprung. These carbon taxes are interest payments on world bank debt.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5498230,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Rich Mole\n\nThe interesting shift is in the concept of rote learning. While Asians are accused of doing it now, that was the way western kids learnt subjects decades ago. It didn't stop creativity, or scientists like Edison, Einstein, Bohr, etc.\n\nFocussing on humanities and ignoring the sciences is what led to the Middle East and Asia being conquered by Europe.",
+    "result": {
+      "toxicity_score": 0.12,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.1,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5524637,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "The voter will not forget this outrage.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 317581,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Doesn't said owner also own a blight property in the center of Fairbanks and doesn't said owner owe several years of back property taxes on both? This is how we could force said blights to be cleaned up.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.0,
+        "threat": 0.05,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5051318,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "But what about all 'dem PEDOPHILES?\" \nYes, it is a joking matter, quite funny.  When God called you to be Catholic, did he suggest you also try out Christianity?  By the way, Finn is a convicted criminal.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.35,
+        "obscene": 0.2,
+        "threat": 0.0,
+        "insult": 0.75,
+        "identity_attack": 0.45,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5314987,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "His kids were with him at that time the cops pulled him over for drunk driving. His boy was filmed saying his FADDAH always drunk. Real immature Filipino. Just like that other Japanese councilman who fled the scene of an accident with a parked car. Had to get home to take advantage of a technicality that the cops can't force a breath test because he was already home. Voters kicked him out. Funny the Filipinos in Kalihi didn't do that. They are genetically corrupt.",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.68,
+        "obscene": 0.15,
+        "threat": 0.0,
+        "insult": 0.78,
+        "identity_attack": 0.92,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5909924,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I agree with most of that. However, I have seen my gay friends go along to get along. Laugh at jokes and statements they find hurtful just so they can \"fit in\". I know the pain they feel because of it, especially when it comes from someone they considered to be a friend. But you are correct, I do not know the dynamic of any groups of friends other than my own, and I would never make jokes about my friends that I knew could be hurtful to them.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5969658,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "In fact, it's true that gay Americans make more than straights do, and most aren't religious.   Look it up.\nI dispute your request to censor people on this forum who simply tell the truth.   We should have none of that here.",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 901062,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Both the left and right wing are fracturing between (a) the elitist establishment who have captured party machinery and the media, and (b) their core constituencies (voters, grassroots members).\n\nBigshots in the Repug party thought they could have the minion-candidate of their choice, but the constituencies nominated Trump.  Key parts of Killary's core constituency flipped and gave Trump the election.  Trump has benefitted from the same fracture on each side of the political spectrum.\n\nThe establishment is terrified that the core constituencies are waking up to see that the real struggle is not between left and right (where civilized people have been managing to get along for centuries), but between the 'Grand Insidership' and everyone else.",
+    "result": {
+      "toxicity_score": 0.1,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5830848,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Canadians should keep their mouth shut about China.",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.35,
+        "identity_attack": 0.45,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5587939,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Any group that proposed ordination of women or other forms of rebellion against legitimate Church teaching deserves excommunication.",
+    "result": {
+      "toxicity_score": 0.25,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6305427,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Right, right. I need to stay on the topic of mass extermination of cats by running them over, poisoning, gassing, shooting them among others, that the po-violent, pro-Trump brownshirts on here advocate.",
+    "result": {
+      "toxicity_score": 0.95,
+      "subtypes": {
+        "severe_toxicity": 0.9,
+        "obscene": 0.4,
+        "threat": 0.2,
+        "insult": 0.6,
+        "identity_attack": 0.2,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 473951,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Mark baggage is a piece of shit he did nothing for Alaska and nor will he again",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.4,
+        "obscene": 0.5,
+        "threat": 0.0,
+        "insult": 0.9,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5030777,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Indians want the money put in their pockets with no question asked. Indians want money to look after their own children .Indians  are too greedy and narcissistic to be trusted.",
+    "result": {
+      "toxicity_score": 0.92,
+      "subtypes": {
+        "severe_toxicity": 0.78,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.86,
+        "identity_attack": 0.94,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5424411,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Well, if you ever see the \"far-left\" meeting somewhere to plot an organized bun fight against the 'right' please let the rest of us know. Otherwise you might like to respect the different viewpoints of your family, friends and neighbours.",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.05,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 363139,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Alaska Airlines #100 on Monday, November 13, 2006 from Anchorage to Portland. He was sitting in seat B-2.",
+    "result": {
+      "toxicity_score": 0.0,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 611010,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Cardinal Burke is not following the gospel. He sees no reason for mercy or understanding, only rules applied strictly with no concern for the person. That is not the way Christ did it: choosing to eat with sinners, etc.",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5818982,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Rape= irregular sexual relations....coming soon!",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.7,
+        "threat": 0.0,
+        "insult": 0.2,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.8
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5916304,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "It is not yet a crime in the United States of America to disagree with a climate scientist, or an energy corporation, or any two people who donate too much money to the political opponents of the Democrats.  \n\nThe thought police have not yet taken over the country.\n\nBeing 'politically incorrect' is not yet a crime.\n\nNote the repetitive use of the word 'yet' in those statements.",
+    "result": {
+      "toxicity_score": 0.07,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6120050,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I guess you don't understand how studies of conditions not in a laboratory work? Do scientists who studied the after effects of the atomic bomb on Hiroshima bear responsibility for the dropping of the bomb?",
+    "result": {
+      "toxicity_score": 0.02,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5614361,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Wrong. If a government official preaches about Christ s/he demonstrates a prejudice in favor of Christianity in violation of the Establishment Clause.\n\nOf course government officials do this sort of thing all the time because American government is suffused with Christian religiosity.\n\nYou wrote:\n\n<<I didn't say the country was Christian.>>\n\nYou invoked the same points routinely deployed by those who claim the United States is \"a Christian nation.\"",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.02,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5149652,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Eid holidays will be coming soon and Easter will be gone.  The collateral damage will be on women and homosexuals.",
+    "result": {
+      "toxicity_score": 0.85,
+      "subtypes": {
+        "severe_toxicity": 0.7,
+        "obscene": 0.05,
+        "threat": 0.4,
+        "insult": 0.5,
+        "identity_attack": 0.8,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5206700,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "I really don't know  even if President Donald Trump wins another term in 2020, the soar grapes liberal Democrats will grow up by than.  They continue to obstruct President Trump nominees to run his administration; and anything to do with President Trump's agenda for \"Americans only.\"\n   Hillary Clinton, the Democrats messiah, had proposed a whopping tax increase on every American so the Democrats can spend more on ilegal immigrants; pay for refuges from Muslim countries giving each of them $1700,00 verses $1200.00 an American war veteran receive today. She would undoubtedly increase the food stamps so some lazy Americans can pay for their illegal drug usage or go to the casino to splurge hard working tax payers money.  Folks that is the doctrine of the liberal Democratic party.\n     The Liberal Democrats hate President Donald Trump of taking care of Americans only; hire Americans only; keep jobs in the United States for American only and not shift them to a foreign country",
+    "result": {
+      "toxicity_score": 0.45,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.3,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5372699,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "@Ian R McNee Zille's tweets are demonstrably racist. Where a \"racist\" is defined as someone who believes (1) That \"race\" exists as a \"scientific concept\"not a \"social construct \" referring to language , culture & superficial appearances. and (2) That some \"races\"  are  superior to others? So does Zille qualify as a \"racist\" according to these criteria?Let us try a \"litmus test\".In Matric in a Catholic School in 1970 a German nun who was teaching us \"History \" once said.\"Your ancestors were cannibals! They were Savages! They would have wiped each other out if White missionaries had not arrived in the nick  of time. I pointed out that they would not have \"wiped each other out\" as \"the last one would have committed suicide\", much to her disgust and to the amusement of my (black of course this was under apartheid) classmates.(but I digress) \n\nSounds familiar does it not? Zille would merely have added \"and the colonialists brought piped water, .......and of course the internet\".",
+    "result": {
+      "toxicity_score": 0.15,
+      "subtypes": {
+        "severe_toxicity": 0.05,
+        "obscene": 0.05,
+        "threat": 0.0,
+        "insult": 0.1,
+        "identity_attack": 0.05,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 401847,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Truth to a liberal is like salt to a slug",
+    "result": {
+      "toxicity_score": 0.35,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.4,
+        "identity_attack": 0.3,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6076555,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Fake News.  Anyone with a brain knows \"the best thing Trump could do\" is to step down and concentrate on what he is good at, golfing, chasing women and having twitter battles with celebrities.",
+    "result": {
+      "toxicity_score": 0.6,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.7,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5076778,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Show me a Canadian Show worth watching and I will watch it.\nCanadian Crap applies to Canadian Lack of Entertainment,that is why we have Netflix and watch British,Australian,American etc shows.",
+    "result": {
+      "toxicity_score": 0.66,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.7,
+        "identity_attack": 0.6,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5546263,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "In 2016, Inzoli was convicted of sexual violence against five boys between the ages of 12 and 16. \n\nWhat the article doesn't include is that Cardinal Francesco Coccopalmerio interceded on behalf of Inzoli to the then newly elected Pope Francis. Ignoring the advice of the Congregation for the Doctrine of the Faith, Francis made the decision in 2014 to return Inzoli to the priesthood. \n\nCoccopalmerio, President of the Pontifical Council for the Interpretation of Legal Texts, is known to be one of Pope Francis\u2019 closest collaborators and supporters. This same Francesco Coccopalmerio is the Cardinal who recommended to Francis that Monsignor Luigi Capozzi become a bishop. Capozzi was (allegedly) caught recently by Vatican gendarmerie hosting a cocaine-fueled homosexual orgy in the Cardinal's apartment. Coccopalmerio is on record as advocating the Church must \u201cemphasize\u201d the \u201cpositive realities\u201d that he believes are present in homosexual relationships. \n\nJoin the dots .....",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.2,
+        "obscene": 0.1,
+        "threat": 0.0,
+        "insult": 0.5,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.2
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6131949,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What you have to do when you are talking to the police dispatcher is tell them you are going to get your shotgun and if this guy breaks the door down that you are going to\"blow his head off.\"  Cops will be then there in 5 minutes or less.  Do us all a favor and make sure you do blow his head off if he breaks in.",
+    "result": {
+      "toxicity_score": 0.95,
+      "subtypes": {
+        "severe_toxicity": 0.9,
+        "obscene": 0.2,
+        "threat": 0.95,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 983299,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "look deeper into the cuts and you will see that many worthless employees were kept, while employees that actually contributed to the operation of the ARRC were laid off......a significan amount of \"fat\" still there....",
+    "result": {
+      "toxicity_score": 0.5,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 874093,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What hypocrisy we have about American politics. We condemn the leadership of many states around the world because they are \"Muslim theocracies\" while we turn a blind eye to all the Christian prayers and bible readings by preachers and priests during the Trump inauguration as some kind of bizarre normalcy. Everyone needs to read Religion in American Politics by Frank Lambert for a little grounding in reality.",
+    "result": {
+      "toxicity_score": 0.04,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5418413,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": ".\n\nHow much lower  can Trump sink?\n\nHe's scraping bottom now.\n\nMost recent Quinnipiac poll, on Americans' thoughts on Donald Trump: \n\n59 percent that he is not honest\n\n58 percent that he does not have good leadership skills\n\n58 percent that he does not care about average Americans\n\n64 percent that he does not share their values.\n\n54 percent that he is too friendly to Russia (3 percent think he is not friendly enough!) \n\n63 percent disapprove of his handling of the environment \n\n53 percent disapprove of the way he is handling the economy \n\n34 percent approve of his job performance \n\nhttps://poll.qu.edu/national/release-detail?ReleaseID=2462 \n\nOuch!\n\nWell, hey, he's got no where to go but up!",
+    "result": {
+      "toxicity_score": 0.05,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 540982,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Trump: I kiss and grab women by the pussy and I can get away with it because I'm a star.\nWomen: That's exactly what he did to me.\nEagleclaw: I say Hillary said the N word and that's EXACTLY the same as accusing Trump of kissing and grabbing women by the pussy!\n\nOK dude. Take some meds. Go lie down.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.7,
+        "threat": 0.1,
+        "insult": 0.6,
+        "identity_attack": 0.4,
+        "sexual_explicit": 0.8
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 1003352,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "\"This is the thinking of the Red Guards, the Khmer Rouge, book burners, the Inquisition, etc.\"\n\nI'm no longer surprised by this kind of comment.",
+    "result": {
+      "toxicity_score": 0.2,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.15,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 6099415,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "What is weak is you posting fake news.  CNN isn't that Commie News Network?  Of course they are not going to publicize republicans licking Putin's boots as that would be counterproductive and they just don't need to.  Republicans are currently nothing but patsies of the Russians so they are not going to upset the apple cart.",
+    "result": {
+      "toxicity_score": 0.65,
+      "subtypes": {
+        "severe_toxicity": 0.15,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5560014,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "It's where the butthole is, and the Charmin factory.",
+    "result": {
+      "toxicity_score": 0.2,
+      "subtypes": {
+        "severe_toxicity": 0.0,
+        "obscene": 0.4,
+        "threat": 0.0,
+        "insult": 0.0,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 489500,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "C'mon man anybody that gets up and tells everybody they one bad ass brother has a freaking problem. And he's a mayor? Under indictment for abuse of a county credit card? And now not reporting income for land sales? This is just sad. This is just another stupid drunk big talking like he's the man. I used to have so much respect for Billy. His speech to HPU grads was awesome. Awesome. Billy you gotta put down the bottle brother.",
+    "result": {
+      "toxicity_score": 0.5,
+      "subtypes": {
+        "severe_toxicity": 0.1,
+        "obscene": 0.0,
+        "threat": 0.0,
+        "insult": 0.6,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5044198,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Would you just have him executed then?",
+    "result": {
+      "toxicity_score": 0.55,
+      "subtypes": {
+        "severe_toxicity": 0.5,
+        "obscene": 0.0,
+        "threat": 0.45,
+        "insult": 0.1,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 545876,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "If a species wasn't introduced by human agency, directly or indirectly, it's not invasive.  Take comfort in the fact that you're consistently wrong.  See, I've studied this stuff.  You haven't even read the citations you posted hoping to bolster your specious arguments, and WON'T rise up to the challenge of defending 'em.  Because you can't.  Pitiful when I understand your arguments better'n you do.  I'm not gonna do your work for you.  Either defend your claims, or slink away all butt-hurt because you can't.  Don't care which.",
+    "result": {
+      "toxicity_score": 0.78,
+      "subtypes": {
+        "severe_toxicity": 0.6,
+        "obscene": 0.2,
+        "threat": 0.0,
+        "insult": 0.85,
+        "identity_attack": 0.0,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  },
+  {
+    "id": 5670571,
+    "provider": "groq",
+    "model": "openai/gpt-oss-120b",
+    "technique": "zero_shot",
+    "comment_text": "Is it Bias or is it experience ?  Not all Bears attack humans but we are fearful of them and kill innocent bears proactively. And  cops killed nearly twice as many whites as blacks in 2015. According to data compiled by The Washington Post, 50 percent of the victims of fatal police shootings were white, while 26 percent were black. \n\nBlacks are seven times more likely than people of other races to commit murder, and eight times more likely to commit robbery. When Blacks commit crimes of violence, they are nearly three times more likely than non-Blacks to use a gun, and more than twice as likely to use a knife.  Of the nearly 770,000 violent interracial crimes committed every year involving Blacks and Whites, Blacks commit 85 percent and Whites commit 15 percent.\nSo when you are fearful and so much of the violence is coming from one racial profile you can see why a cop may be quick to react unnecessarily aggressive. Bias yes, but  based on real experience and statistics.",
+    "result": {
+      "toxicity_score": 0.86,
+      "subtypes": {
+        "severe_toxicity": 0.78,
+        "obscene": 0.05,
+        "threat": 0.15,
+        "insult": 0.72,
+        "identity_attack": 0.88,
+        "sexual_explicit": 0.0
+      },
+      "error": false
+    }
+  }
+]
